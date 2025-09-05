@@ -1,346 +1,1714 @@
 {
   "urls": [
-    { "url": "https://www.reputationdefender.com/blog" },
-    { "url": "https://www.reputationdefender.com/blog/smb/tips-for-hiring-remote-workers-during-these-tough-times-and-beyond" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/12-tips-for-ensuring-your-linkedin-profile-picture-looks-professional" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/what-actors-need-to-know-about-personal-branding" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-strategic-career-plan-that-youll-actually-use" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-for-veterinarians" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/restaurant-review-monitoring-101" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/what-weblining-means-you-and-your-online-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/online-privacy-in-the-age-of-coronavirus" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-protect-your-privacy-from-facial-recognition-technology" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities/5-myths-about-liskula-cohen-versus-google-skank-decision" },
-    { "url": "https://www.reputationdefender.com/blog/orm/are-online-reputation-management-and-public-relations-the-same-thing" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/social-media-privacy-tips-armed-forces" },
-    { "url": "https://www.reputationdefender.com/blog/orm/reputation-lessons-warren-buffett" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-your-online-reputation-affects-your-career" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/somebodys-watching-you-how-to-avoid-being-tracked-online" },
-    { "url": "https://www.reputationdefender.com/blog/smb/11-ways-to-boost-your-online-reputation-with-google-my-business" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-does-reputation-fit-into-the-customers-journey" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/20-stats-about-online-reviews-that-hoteliers-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/should-your-kids-use-social-media" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/how-remove-negative-reviews-complaintsboardcom" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-remove-personal-information-from-google" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/3rd-party-cookies-are-going-away-but-youre-still-being-tracked" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/9-times-someones-online-information-made-them-unsafe-in-real-life" },
-    { "url": "https://www.reputationdefender.com/blog/smb/featured-snippets-101-how-to-rank-for-position-zero" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-to-use-your-online-reputation-to-earn-new-business-during-tough-times" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/how-influence-google-suggest-and-protect-your-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-protect-yourself-from-revenge-porn" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/privacy-risks-sharing-health-info-online" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-make-the-best-impression-when-you-cant-interview-in-person" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-to-protect-your-reputation-now-that-everyone-is-online-all-the-time" },
-    { "url": "https://www.reputationdefender.com/blog/orm/want-to-get-to-the-top-of-google-search-follow-these-proven-strategies-and-dominate-your-niche" },
-    { "url": "https://www.reputationdefender.com/blog/orm/7-key-lessons-about-getting-your-website-on-top-of-google-search-faster-more-consistently" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-secret-sauce-to-google-success-how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-search-engine-reputation-management-can-rescue-you-from-a-negative-online-image" },
-    { "url": "https://www.reputationdefender.com/blog/orm/why-reputation-management-important-businesses" },
-    { "url": "https://www.reputationdefender.com/blog/orm/does-google-control-search-results-a-detailed-look-at-online-search-and-what-you-can-control" },
-    { "url": "https://www.reputationdefender.com/blog/smb/business-reputation-management-your-small-business-advantage" },
-    { "url": "https://www.reputationdefender.com/blog/orm/3-real-world-online-reputation-management-examples-and-how-we-solved-3-very-big-problems" },
-    { "url": "https://www.reputationdefender.com/blog/smb/reignite-customer-confidence-4-brand-image-restoration-strategies-for-online-businesses" },
-    { "url": "https://www.reputationdefender.com/blog/smb/beyond-likes-and-shares-3-expert-strategies-for-effective-brand-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/smb/mastering-customer-trust-the-art-of-brand-trust-and-credibility-management-in-a-skeptical-world" },
-    { "url": "https://www.reputationdefender.com/blog/smb/brand-identity-vs-brand-image-how-to-unleash-the-explosive-power-of-both-in-your-business" },
-    { "url": "https://www.reputationdefender.com/blog/smb/reputation-management-best-practices-boost-your-brand-image" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/im-on-the-dnc-list-why-am-i-getting-so-many-calls" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/how-remove-negative-reviews-internet" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-build-good-business-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/top-ten-reasons-keep-your-personal-information-private" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-remove-public-records-from-the-internet-in-five-steps" },
-    { "url": "https://www.reputationdefender.com/blog/smb/what-are-the-most-common-online-threats-to-a-brands-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized/drowning-in-negative-press-an-internet-reputation-company-can-be-your-lifeline-heres-why" },
-    { "url": "https://www.reputationdefender.com/blog/smb/what-tactics-do-competitors-use-in-smear-campaigns" },
-    { "url": "https://www.reputationdefender.com/blog/orm/what-is-proactive-online-reputation-building" },
-    { "url": "https://www.reputationdefender.com/blog/orm/can-all-negative-online-content-be-removed-or-suppressed" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-effective-is-seo-in-pushing-down-negative-content-in-search-results" },
-    { "url": "https://www.reputationdefender.com/blog/orm/why-is-building-an-online-reputation-proactively-important" },
-    { "url": "https://www.reputationdefender.com/blog/smb/you-worked-hard-for-your-business-safeguard-it-with-internet-reputation-management-services" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/7-examples-of-the-best-way-to-respond-to-a-positive-review" },
-    { "url": "https://www.reputationdefender.com/blog/orm/5-real-world-examples-online-reputation-affecting-peoples-lives" },
-    { "url": "https://www.reputationdefender.com/blog/orm/hospital-reputation-management-9-tips-success" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-remove-whois-database-information-and-protect-your-online-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/5-reasons-you-shouldnt-buy-google-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-to-deal-with-online-defamation" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-talk-your-kids-about-social-media-safety" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-correct-errors-in-employment-background-checks" },
-    { "url": "https://www.reputationdefender.com/blog/support/report-internet-blackmail-the-clear-and-best-way-to-get-help-now" },
-    { "url": "https://www.reputationdefender.com/blog/orm/search-engine-optimization-vs-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/smb/local-business-search-engine-optimization-powerful-tips-to-improve-visibility" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/online-reviews-and-hipaa-what-you-need-to-know-about-responding-to-patient-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/why-geotracking-is-a-growing-threat-to-online-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/what-to-do-if-your-personal-information-is-exposed-in-a-security-breach" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-remove-article-internet" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-best-free-tools-for-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/orm/discover-how-to-maximize-your-personal-online-brand-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/orm/personal-branding-ideas-that-help-improve-your-image" },
-    { "url": "https://www.reputationdefender.com/blog/smb/exploring-cyber-security-in-the-future-and-its-effect-on-digital-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/orm/4-examples-of-online-fights-that-caused-permanent-reputation-damage" },
-    { "url": "https://www.reputationdefender.com/blog/orm/polishing-page-one-negativity-a-guide-to-google-search-suppression" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/13-things-you-need-to-include-in-your-career-portfolio" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-powerful-personal-values-statement" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/how-search-deep-web-protect-your-online-reputation-and-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-reputation-revolution-how-google-reputation-management-is-changing-the-game-for-businesses" },
-    { "url": "https://www.reputationdefender.com/blog/orm/maximize-positive-engagement-top-online-reputation-management-tips-for-brand-marketers" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/personal-branding-strategies-for-social-media-elevating-your-online-presence" },
-    { "url": "https://www.reputationdefender.com/blog/smb/employment-background-checks-tailored-for-the-modern-workforce-adapting-to-new-hiring-challenges" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-online-data-insurance-companies" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/7-smart-ways-to-protect-your-reputation-on-social-media" },
-    { "url": "https://www.reputationdefender.com/blog/orm/7-personal-branding-tips-for-introverts-enhancing-your-quiet-strengths" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-playbook-online-reputation-management-individuals-can-use-to-manage-the-power-of-online-perception" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-professional-background-summary-that-gets-you-noticed" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities/how-celebrities-protect-their-personal-information" },
-    { "url": "https://www.reputationdefender.com/blog/orm/why-online-reputation-management-for-public-speakers-can-boost-personal-branding-through-the-roof" },
-    { "url": "https://www.reputationdefender.com/blog/executives/strategies-for-responding-to-online-feedback-as-a-corporate-executive-on-linkedin" },
-    { "url": "https://www.reputationdefender.com/blog/executives/personal-branding-elevating-your-online-presence-as-a-corporate-executive" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/the-step-by-step-guide-to-online-reputation-management-for-digital-marketing-professionals" },
-    { "url": "https://www.reputationdefender.com/blog/orm/what-is-online-corporate-reputation-management-and-why-it-matters-for-your-business" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-recognize-prevent-and-respond-to-cyberbullying" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-dos-and-donts-of-managing-your-online-image-as-a-corporate-executive" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized/manage-google-alerts-like-a-pro-to-keep-your-online-reputation-spotless" },
-    { "url": "https://www.reputationdefender.com/blog/executives/protecting-your-reputation-best-practices-for-corporate-executives-online" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-often-should-you-check-your-online-reputation-discover-the-ideal-frequency" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-connection-between-online-anonymity-and-civility" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/how-social-media-reputation-management-tools-can-transform-your-brand" },
-    { "url": "https://www.reputationdefender.com/blog/executives/dangerous-mistakes-to-avoid-in-executive-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/orm/what-is-corporate-reputation-management-a-guide-to-protecting-your-brands-image" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/how-to-reply-to-a-bad-review-transforming-criticism-into-customer-loyalty" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized/internet-privacy-protection-software-key-features-to-look-for" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized/internet-privacy-guide-expert-advice-on-avoiding-online-threats" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-do-i-remove-old-accounts-and-profiles-from-the-internet-a-simple-6-step-strategy" },
-    { "url": "https://www.reputationdefender.com/blog/orm/make-your-mark-essential-advice-on-the-key-elements-of-personal-branding" },
-    { "url": "https://www.reputationdefender.com/blog/executives/digital-reputation-management-for-ceos" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/whats-the-impact-of-ai-on-digital-privacy-are-you-at-risk" },
-    { "url": "https://www.reputationdefender.com/blog/smb/what-strategies-can-i-use-to-combat-negative-seo-online-reputation-tactics" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/11-smart-ways-to-protect-your-email-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/smb/executive-data-breach-response-plan-strategies-for-immediate-and-long-term-action" },
-    { "url": "https://www.reputationdefender.com/blog/smb/10-signs-you-desperately-need-social-media-reputation-services" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/7-ways-social-media-auditing-can-save-and-repair-your-personal-brand-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/outrank-the-hate-the-seo-reputation-repair-playbook-to-rise-back-to-the-top-of-google" },
-    { "url": "https://www.reputationdefender.com/blog/orm/is-your-past-haunting-your-future-the-ultimate-guide-to-personal-reputation-repair" },
-    { "url": "https://www.reputationdefender.com/blog/executives/top-innovations-for-c-suite-identity-security-solutions-360-degree-executive-privacy-protection" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-personal-it-affects-corporate-information-security" },
-    { "url": "https://www.reputationdefender.com/blog/support/recognize-and-avoid-apple-support-scams" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/online-review-management-the-complete-guide" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-delete-flash-cookies-permacookies-and-zombie-cookies" },
-    { "url": "https://www.reputationdefender.com/blog/orm/top-7-online-reputation-management-mistakes-businesses-need-to-avoid" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/how-social-media-can-ruin-your-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-opt-out-radaris-and-protect-your-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-missing-link-in-corporate-it-security" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-social-engineers-find-your-personal-information" },
-    { "url": "https://www.reputationdefender.com/blog/executives/six-common-approaches-to-executive-social-engineering" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-to-protect-your-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-find-out-who-searching-you-online" },
-    { "url": "https://www.reputationdefender.com/blog/orm/definitive-guide-getting-embarrassing-photos-internet" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/end-revenge-porn" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-remove-your-online-mug-shot" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-remove-post-thedirtycom" },
-    { "url": "https://www.reputationdefender.com/blog/smb/what-do-when-ex-employees-damage-your-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/smb/essentials-small-business-management" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-remove-your-phone-number-internet" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/online-blackmail-can-go-away" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/what-are-different-types-internet-blackmail" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/understanding-internet-blackmail-laws" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/online-impersonation-laws" },
-    { "url": "https://www.reputationdefender.com/blog/orm/streisand-effect" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/remove-pipl-information" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/top-five-social-media-privacy-concerns" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-pick-right-username" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-block-internet-ad-tracking-and-maintain-your-online-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/executives/customer-privacy-important-part-business-strategy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-prevent-or-defend-against-online-stalking" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-privacy-itunes-apps" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-privacy-while-surfing-web-your-mobile-device" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-prevent-teenagers-sexting-and-protect-them-other-teens-who-do" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-remove-negative-information-and-news-articles-web" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-online-reputation-and-privacy-people-search-companies" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/how-get-your-name-top-google-search" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/top-five-common-sense-social-networking-rules-kids" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/consequences-oversharing-social-networks" },
-    { "url": "https://www.reputationdefender.com/blog/orm/if-youre-not-google-you-dont-exist" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-invisible-shield-how-anonymizing-executives-strengthens-corporate-defenses" },
-    { "url": "https://www.reputationdefender.com/blog/executives/how-to-protect-your-privacy-online-for-c-suite-executives" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-top-3-cyberthreats-for-executives-all-involve-personal-information" },
-    { "url": "https://www.reputationdefender.com/blog/executives/safeguarding-corporate-leadership-executive-privacy-in-the-digital-age" },
-    { "url": "https://www.reputationdefender.com/blog/executives/executive-impersonation-risks-and-prevention" },
-    { "url": "https://www.reputationdefender.com/blog/executives/how-to-safeguard-executives-against-cyber-threats" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/mastering-discretion-9-best-practices-for-executive-privacy-on-business-trips" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/when-google-gets-it-wrong-how-to-avoid-mistaken-identity-in-knowledge-panels" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-unique-executive-threats-from-each-of-the-top-social-media-sites" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-employee-privacy-can-help-protect-businesses-from-ransomware" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/its-not-personal-how-people-search-sites-create-threats-for-businesses" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/the-corporate-security-risks-of-being-on-linkedin" },
-    { "url": "https://www.reputationdefender.com/blog/executives/does-doxxing-mean-the-end-for-executives-explore-this-phenomenon-its-impact-and-how-to-avoid-it" },
-    { "url": "https://www.reputationdefender.com/blog/executives/identity-protection-services-for-executives-ensuring-top-level-security" },
-    { "url": "https://www.reputationdefender.com/blog/executives/navigating-the-data-privacy-maze-a-c%e2%80%91suite-guide-to-privacy-by-design" },
-    { "url": "https://www.reputationdefender.com/blog/executives/real-world-examples-of-executives-being-targeted-due-to-online-personal-information" },
-    { "url": "https://www.reputationdefender.com/blog/executives/top-identity-protection-services-for-executives-discover-whats-working" },
-    { "url": "https://www.reputationdefender.com/blog/executives/you-cant-protect-executives-from-social-engineering-if-your-security-plan-ignores-this-one-thing" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/4-ways-to-keep-corporate-credentials-off-the-dark-web" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/your-roadmap-to-combating-the-latest-online-privacy-threats-facing-executives" },
-    { "url": "https://www.reputationdefender.com/blog/executives/21-privacy-stats-executives-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/orm/10-examples-of-the-best-personal-websites" },
-    { "url": "https://www.reputationdefender.com/blog/orm/personal-brand-management-for-athletes" },
-    { "url": "https://www.reputationdefender.com/blog/orm/what-aspiring-politicians-need-to-know-about-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-what-psychologists-counselors-and-social-workers-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/9-essential-online-reputation-management-tips-for-educators" },
-    { "url": "https://www.reputationdefender.com/blog/executives/why-ceo-reputation-management-matters" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-do-prospective-employees-assess-the-reputation-of-your-company" },
-    { "url": "https://www.reputationdefender.com/blog/orm/personal-branding-versus-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/orm/from-gen-z-to-the-silent-generation-the-online-etiquette-mistakes-each-generation-makes" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-to-make-online-reputation-management-part-of-your-smart-marketing-plan" },
-    { "url": "https://www.reputationdefender.com/blog/lawyers/5-examples-of-lawyers-using-social-media-effectively" },
-    { "url": "https://www.reputationdefender.com/blog/orm/ted-rubins-return-on-relationship-a-roadmap-for-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/what-successful-doctors-know-about-branding-themselves-online" },
-    { "url": "https://www.reputationdefender.com/blog/social-media/social-media-tips-for-businesses" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-to-fix-a-restaurants-bad-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/smb/reputation-risk-management-a-false-sense-of-security" },
-    { "url": "https://www.reputationdefender.com/blog/lawyers/dos-donts-negative-attorney-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/orm/when-wikipedia-tarnishes-your-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-check-your-doctors-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities/celebrity-image-management-how-it-works" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines/3-steps-removing-negative-search-results" },
-    { "url": "https://www.reputationdefender.com/blog/orm/tips-teenage-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-government-helps-keep-your-kids-safe-online" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-primer-for-dentists" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/make-your-linkedin-profile-online-reputation-management-tool" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/physician-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-companies-collect-your-private-information-when-you-browse-online" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-remove-information-intelius-and-protect-your-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-remove-yourself-top-peoplesearch-sites" },
-    { "url": "https://www.reputationdefender.com/blog/smb/business-reputation-management-lessons-fortune-500-companies" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-create-safe-and-effective-online-business-listings-wont-damage-your-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-avoid-fake-facebook-friend-requests" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/choose-right-facebook-profile-picture" },
-    { "url": "https://www.reputationdefender.com/blog/smb/remove-suppress-ripoff-report-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-choose-online-reputation-management-company" },
-    { "url": "https://www.reputationdefender.com/blog/smb/6-resilient-ways-to-protect-brand-reputation-in-2023-the-must-have-checklist-for-your-business" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-delete-yourself-from-the-internet" },
-    { "url": "https://www.reputationdefender.com/blog/orm/50-online-reputation-stats-you-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/orm/control-whats-seen-on-google-how-to-push-down-negative-search-results-in-2024" },
-    { "url": "https://www.reputationdefender.com/blog/orm/7-new-eye-opening-statistics-about-online-reputation-for-2023" },
-    { "url": "https://www.reputationdefender.com/blog/executives/corporate-social-engineering-what-makes-for-an-appealing-mark" },
-    { "url": "https://www.reputationdefender.com/blog/orm/what-are-reputation-management-consultants" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-powerful-personal-mission-statement" },
-    { "url": "https://www.reputationdefender.com/blog/orm/online-reputation-management-tips-for-recent-college-graduates" },
-    { "url": "https://www.reputationdefender.com/blog/executives/executive-privacy-and-online-data-brokers-what-you-need-to-know-to-avoid-vulnerability" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized/online-reputation-management-for-digital-marketing-agencies-strategies-for-success" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/5-most-common-causes-negative-doctor-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/why-online-privacy-is-vital-to-executive-protection" },
-    { "url": "https://www.reputationdefender.com/blog/smb/putting-price-tag-corporate-reputation-management" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-digital-corner-office-how-executive-reputation-management-opens-or-closes-c-suite-doors" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities/balancing-fame-and-personal-boundaries-the-essential-public-figure-online-privacy-guide" },
-    { "url": "https://www.reputationdefender.com/blog/orm/everything-you-need-to-know-about-guest-posting-to-boost-your-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/orm/7-online-reputation-mistakes-you-might-be-making" },
-    { "url": "https://www.reputationdefender.com/blog/orm/online-reputation-management-do-it-yourself-or-hire-a-pro" },
-    { "url": "https://www.reputationdefender.com/blog/lawyers/6-steps-personal-branding-lawyers" },
-    { "url": "https://www.reputationdefender.com/blog/orm/the-law-and-reputation-management-9-things-you-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/orm/9-tips-for-writing-an-amazing-personal-biography" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/7-ways-to-build-a-personal-brand-with-content-marketing" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/7-social-media-tips-for-physicians" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/5-of-the-most-effective-linkedin-headlines-you-should-be-copying" },
-    { "url": "https://www.reputationdefender.com/blog/doctors/why-doctors-need-strong-online-presence" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-an-inspiring-personal-vision-statement" },
-    { "url": "https://www.reputationdefender.com/blog/orm/how-to-blog-your-way-to-a-better-online-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/4-ways-to-build-your-personal-brand-on-linkedin" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-improve-your-online-reputation-so-that-employers-will-hire-you" },
-    { "url": "https://www.reputationdefender.com/blog/professionals/deep-web-vs-dark-web-101-what-every-professional-needs-to-know-about-online-reputation-risks" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/top-eye-opening-internet-privacy-concerns-in-the-age-of-ai" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-protect-your-kids-when-they-play-online-video-games" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/top-five-threats-your-online-privacy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-clean-up-your-digital-footprint" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/8-different-types-identity-theft" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-use-facebook-as-a-professional-networking-tool" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/yes-you-need-to-write-a-career-goals-statement-and-no-it-wont-hurt" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/top-5-social-media-privacy-mistakes" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/the-student-privacy-blueprint-3-steps-to-protect-college-student-online-presence" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-build-a-digital-safety-net-that-protects-every-generation" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-to-prevent-child-identity-theft-in-a-social-media-driven-society" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/family-digital-legacy-protection-5-expert-tips-for-securing-your-online-assets" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/what-are-data-broker-opt-out-services" },
-    { "url": "https://www.reputationdefender.com/blog/orm/10-of-the-best-personal-brand-statement-examples" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/raising-kids-in-an-online-world-what-parents-need-to-know" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/6-best-practices-for-digital-executive-protection" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities/repairing-influencer-reputation-after-a-scandal" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/online-dating-privacy-tips" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/internet-extortion-how-to-prevent-it-and-the-best-ways-to-respond-to-it" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers/your-online-reputation-score-your-new-credit-score" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/how-to-avoid-identity-theft" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/navigating-big-data-privacy-issues-effectively-a-simple-guide" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-protect-your-children-cyberstalking" },
-    { "url": "https://www.reputationdefender.com/blog/orm/family-reputation-management-for-a-stronger-legacy" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/online-privacy-challenges-for-public-figures-today" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/executive-iot-security-risks-protecting-key-assets" },
-    { "url": "https://www.reputationdefender.com/blog/executives/the-new-rules-of-board-member-privacy-protection-every-executive-needs-to-know-now" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/privacy-success-tools-to-stay-safe-and-visible" },
-    { "url": "https://www.reputationdefender.com/blog/privacy/plan-your-digital-inheritance-for-the-future" },
-    { "url": "https://www.reputationdefender.com/blog/smb/how-to-build-an-unshakable-professional-reputation" },
-    { "url": "https://www.reputationdefender.com/blog/orm/ceo-reputation-management-is-your-company-at-risk" },
-    { "url": "https://www.reputationdefender.com/blog/smb/small-business-reputation-blueprint-for-online-trust" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews/prevent-fake-reviews-on-google-4-smart-steps" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids/smart-digital-preparation-for-ivy-league-success" },
-    { "url": "https://www.reputationdefender.com/blog/executives/executive-privacy-concierge-your-inside-look" },
-    { "url": "https://www.reputationdefender.com/blog/executives/top-uhnw-cybersecurity-solutions-to-protect-wealth" },
-    { "url": "https://www.reputationdefender.com/blog/executives/securing-executive-identities-the-first-step-towards-robust-business-security" },
-    { "url": "https://www.reputationdefender.com/blog/lawyers/online-reputation-management-attorneys" },
-    { "url": "https://www.reputationdefender.com/" },
-    { "url": "https://www.reputationdefender.com/smb-online-reputation-guide" },
-    { "url": "https://www.reputationdefender.com/online-reputation-tips-economic-downturn" },
-    { "url": "https://www.reputationdefender.com/online-privacy-tips" },
-    { "url": "https://www.reputationdefender.com/individuals-online-reputation-guide" },
-    { "url": "https://www.reputationdefender.com/search-results-guide" },
-    { "url": "https://www.reputationdefender.com/people-search-faqs" },
-    { "url": "https://www.reputationdefender.com/personal-branding" },
-    { "url": "https://www.reputationdefender.com/vip-services" },
-    { "url": "https://www.reputationdefender.com/online-reviews" },
-    { "url": "https://www.reputationdefender.com/small-business" },
-    { "url": "https://www.reputationdefender.com/patents" },
-    { "url": "https://www.reputationdefender.com/legal/reputation-report-terms" },
-    { "url": "https://www.reputationdefender.com/legal/privacy-policy" },
-    { "url": "https://www.reputationdefender.com/executive-protection" },
-    { "url": "https://www.reputationdefender.com/rd/report-card-t2409" },
-    { "url": "https://www.reputationdefender.com/report-card" },
-    { "url": "https://www.reputationdefender.com/contact" },
-    { "url": "https://www.reputationdefender.com/who-we-serve" },
-    { "url": "https://www.reputationdefender.com/large-companies" },
-    { "url": "https://www.reputationdefender.com/job-seekers" },
-    { "url": "https://www.reputationdefender.com/solutions" },
-    { "url": "https://www.reputationdefender.com/privacy" },
-    { "url": "https://www.reputationdefender.com/legal/user-agreement" },
-    { "url": "https://www.reputationdefender.com/legal" },
-    { "url": "https://www.reputationdefender.com/legal/security-faq" },
-    { "url": "https://www.reputationdefender.com/case-studies" },
-    { "url": "https://www.reputationdefender.com/individuals" },
-    { "url": "https://www.reputationdefender.com/remove-personal-information" },
-    { "url": "https://www.reputationdefender.com/guide-to-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/what-online-reputation-management" },
-    { "url": "https://www.reputationdefender.com/about" },
-    { "url": "https://www.reputationdefender.com/rd/online-privacy-solutions-t2507sn" },
-    { "url": "https://www.reputationdefender.com/rd/control-your-online-reputation-t2507sn" },
-    { "url": "https://www.reputationdefender.com/rd/free-search-results-removal-consultation-t2507sn" },
-    { "url": "https://www.reputationdefender.com/rd/protect-your-name-t2507sn" },
-    { "url": "https://www.reputationdefender.com/rd/control-your-online-reputation-t2507sn2" },
-    { "url": "https://www.reputationdefender.com/concierge-digital-security" },
-    { "url": "https://www.reputationdefender.com/rd/search-results-23" },
-    { "url": "https://www.reputationdefender.com/search-results" },
-    { "url": "https://www.reputationdefender.com/executives" },
-    { "url": "https://www.reputationdefender.com/legal/reputationdefender-service-terms" },
-    { "url": "https://www.reputationdefender.com/blog/smb" },
-    { "url": "https://www.reputationdefender.com/blog/celebrities" },
-    { "url": "https://www.reputationdefender.com/blog/doctors" },
-    { "url": "https://www.reputationdefender.com/blog/executives" },
-    { "url": "https://www.reputationdefender.com/blog/job-seekers" },
-    { "url": "https://www.reputationdefender.com/blog/lawyers" },
-    { "url": "https://www.reputationdefender.com/blog/orm" },
-    { "url": "https://www.reputationdefender.com/blog/online-reviews" },
-    { "url": "https://www.reputationdefender.com/blog/privacy" },
-    { "url": "https://www.reputationdefender.com/blog/professionals" },
-    { "url": "https://www.reputationdefender.com/blog/protect-your-kids" },
-    { "url": "https://www.reputationdefender.com/blog/search-engines" },
-    { "url": "https://www.reputationdefender.com/blog/social-media" },
-    { "url": "https://www.reputationdefender.com/blog/support" },
-    { "url": "https://www.reputationdefender.com/blog/uncategorized" }
+    {
+      "url": "https://www.reputationdefender.com/blog",
+      "id": "1bf1f1b57761c87cbc1ac9a849bba91fa207fe08",
+      "targetPath": "/blog"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/tips-for-hiring-remote-workers-during-these-tough-times-and-beyond",
+      "id": "6cf498ad6137ba462e1dac5138fbf510b0fe0480",
+      "targetPath": "/blog/smb/tips-for-hiring-remote-workers-during-these-tough-times-and-beyond"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/12-tips-for-ensuring-your-linkedin-profile-picture-looks-professional",
+      "id": "e13434146327c7c224972c19c8fc1d77a4d7de9b",
+      "targetPath": "/blog/job-seekers/12-tips-for-ensuring-your-linkedin-profile-picture-looks-professional"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/what-actors-need-to-know-about-personal-branding",
+      "id": "c1e5d4444ad064ed409d3989bcc65e14c766dec6",
+      "targetPath": "/blog/professionals/what-actors-need-to-know-about-personal-branding"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-strategic-career-plan-that-youll-actually-use",
+      "id": "9a6dc1ef21e5d5889f497d7fe1965b62182e6203",
+      "targetPath": "/blog/job-seekers/how-to-write-a-strategic-career-plan-that-youll-actually-use"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-for-veterinarians",
+      "id": "baa2d7fa7810c2961b3b91a9d9c7f274d496a386",
+      "targetPath": "/blog/professionals/online-reputation-management-for-veterinarians"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/restaurant-review-monitoring-101",
+      "id": "69d88762d62dfe93e5a816cbcf24faed5f1e410a",
+      "targetPath": "/blog/online-reviews/restaurant-review-monitoring-101"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/what-weblining-means-you-and-your-online-privacy",
+      "id": "24e3a381adc6f3ff5df11c3622a3e186e1006fae",
+      "targetPath": "/blog/privacy/what-weblining-means-you-and-your-online-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/online-privacy-in-the-age-of-coronavirus",
+      "id": "d1936cbccca78458f514a185cc9e47f5f384d686",
+      "targetPath": "/blog/privacy/online-privacy-in-the-age-of-coronavirus"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-protect-your-privacy-from-facial-recognition-technology",
+      "id": "5e45a8e5f9cd7fbc9b1e19d4960fec1ecf9ebb9d",
+      "targetPath": "/blog/privacy/how-to-protect-your-privacy-from-facial-recognition-technology"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities/5-myths-about-liskula-cohen-versus-google-skank-decision",
+      "id": "fa653612a4aa2abc25bce6b672e43ddf5bc21c33",
+      "targetPath": "/blog/celebrities/5-myths-about-liskula-cohen-versus-google-skank-decision"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/are-online-reputation-management-and-public-relations-the-same-thing",
+      "id": "daceff4f3bf41131d0504cad390ca66d45ad6b63",
+      "targetPath": "/blog/orm/are-online-reputation-management-and-public-relations-the-same-thing"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/social-media-privacy-tips-armed-forces",
+      "id": "bf9087fbe31054b8b0da372c6065b7b628fad421",
+      "targetPath": "/blog/social-media/social-media-privacy-tips-armed-forces"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/reputation-lessons-warren-buffett",
+      "id": "1a15940af3c73af823fc36d00da3cdf950fe530b",
+      "targetPath": "/blog/orm/reputation-lessons-warren-buffett"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-your-online-reputation-affects-your-career",
+      "id": "6be2cc3cd2b9d6b0bf14b45fc664fc1d7ad21baa",
+      "targetPath": "/blog/job-seekers/how-your-online-reputation-affects-your-career"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/somebodys-watching-you-how-to-avoid-being-tracked-online",
+      "id": "69e1636145cbde5eff1bf23457f1aa9cce3e41de",
+      "targetPath": "/blog/privacy/somebodys-watching-you-how-to-avoid-being-tracked-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/11-ways-to-boost-your-online-reputation-with-google-my-business",
+      "id": "a021d6aba4aeefc68fa22e69aa9c1f418ecab6c5",
+      "targetPath": "/blog/smb/11-ways-to-boost-your-online-reputation-with-google-my-business"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-does-reputation-fit-into-the-customers-journey",
+      "id": "2d63e7573e7500bcb100e4346e20f84c4b85d63d",
+      "targetPath": "/blog/smb/how-does-reputation-fit-into-the-customers-journey"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/20-stats-about-online-reviews-that-hoteliers-need-to-know",
+      "id": "226e0ce49a6a049a1876427e364706e30ab214ab",
+      "targetPath": "/blog/online-reviews/20-stats-about-online-reviews-that-hoteliers-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/should-your-kids-use-social-media",
+      "id": "7d3317740ca59c8f8c26fdb0e48912cd170ba9d8",
+      "targetPath": "/blog/protect-your-kids/should-your-kids-use-social-media"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/how-remove-negative-reviews-complaintsboardcom",
+      "id": "571f9d3d2a262e4674db6cc8d7fc264b0f018f89",
+      "targetPath": "/blog/online-reviews/how-remove-negative-reviews-complaintsboardcom"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-remove-personal-information-from-google",
+      "id": "a5b11f3d165a010e31cc1256bd38a55ad0597fcf",
+      "targetPath": "/blog/privacy/how-to-remove-personal-information-from-google"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/3rd-party-cookies-are-going-away-but-youre-still-being-tracked",
+      "id": "abf215922b340c9c5c0a8eb83913252533f20128",
+      "targetPath": "/blog/privacy/3rd-party-cookies-are-going-away-but-youre-still-being-tracked"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/9-times-someones-online-information-made-them-unsafe-in-real-life",
+      "id": "f7de28d098c7e29b537aea882e481cca3ddfc75b",
+      "targetPath": "/blog/privacy/9-times-someones-online-information-made-them-unsafe-in-real-life"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/featured-snippets-101-how-to-rank-for-position-zero",
+      "id": "359a64be06eb498f22bd2b102763e98275ef162e",
+      "targetPath": "/blog/smb/featured-snippets-101-how-to-rank-for-position-zero"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-to-use-your-online-reputation-to-earn-new-business-during-tough-times",
+      "id": "03d2a31e9604bf223260e65a69f209f784dac84c",
+      "targetPath": "/blog/smb/how-to-use-your-online-reputation-to-earn-new-business-during-tough-times"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/how-influence-google-suggest-and-protect-your-online-reputation",
+      "id": "08b8f9b6db4c8ca3753cb7c197422dc9b10ec141",
+      "targetPath": "/blog/search-engines/how-influence-google-suggest-and-protect-your-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-protect-yourself-from-revenge-porn",
+      "id": "c7082f89f9e9b833f166949aa30aca4b9b6bce1b",
+      "targetPath": "/blog/privacy/how-to-protect-yourself-from-revenge-porn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/privacy-risks-sharing-health-info-online",
+      "id": "42d577c59cb357787b9ff2ab51d44b91a569bb3e",
+      "targetPath": "/blog/privacy/privacy-risks-sharing-health-info-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-make-the-best-impression-when-you-cant-interview-in-person",
+      "id": "05ae956dc9b48a5ba14fd9612b050c4dfe3e0410",
+      "targetPath": "/blog/job-seekers/how-to-make-the-best-impression-when-you-cant-interview-in-person"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-to-protect-your-reputation-now-that-everyone-is-online-all-the-time",
+      "id": "885675f5fc5d4cddfd33f127b67cf9c93d6eccae",
+      "targetPath": "/blog/orm/how-to-protect-your-reputation-now-that-everyone-is-online-all-the-time"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/want-to-get-to-the-top-of-google-search-follow-these-proven-strategies-and-dominate-your-niche",
+      "id": "36f815c8696b44652cd526ee6c1b859694d42fe3",
+      "targetPath": "/blog/orm/want-to-get-to-the-top-of-google-search-follow-these-proven-strategies-and-dominate-your-niche"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/7-key-lessons-about-getting-your-website-on-top-of-google-search-faster-more-consistently",
+      "id": "e05c230fb8689c834a2c4f1bb4971a99b9a9bc60",
+      "targetPath": "/blog/orm/7-key-lessons-about-getting-your-website-on-top-of-google-search-faster-more-consistently"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-secret-sauce-to-google-success-how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results",
+      "id": "73d2a6cc5eb6292839323eac7c4ee99b71705f9c",
+      "targetPath": "/blog/orm/the-secret-sauce-to-google-success-how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results",
+      "id": "15dfbbd5f11730fe35709c9560e8437e58b8684b",
+      "targetPath": "/blog/orm/how-improving-your-reputation-helps-you-climb-to-the-top-of-google-search-results"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-search-engine-reputation-management-can-rescue-you-from-a-negative-online-image",
+      "id": "cff14293d27de413f21028b9d0d52a78129561c8",
+      "targetPath": "/blog/orm/how-search-engine-reputation-management-can-rescue-you-from-a-negative-online-image"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/why-reputation-management-important-businesses",
+      "id": "94e6547b37f168ccc0c708499e0b63149754aaaa",
+      "targetPath": "/blog/orm/why-reputation-management-important-businesses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/does-google-control-search-results-a-detailed-look-at-online-search-and-what-you-can-control",
+      "id": "20c599dd30c61be16bc70e97d2ab10c01eb23f6f",
+      "targetPath": "/blog/orm/does-google-control-search-results-a-detailed-look-at-online-search-and-what-you-can-control"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/business-reputation-management-your-small-business-advantage",
+      "id": "115389972fd1e89d3790ef8f31c823a4506bfaf3",
+      "targetPath": "/blog/smb/business-reputation-management-your-small-business-advantage"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/3-real-world-online-reputation-management-examples-and-how-we-solved-3-very-big-problems",
+      "id": "e79d8fc595f78a7872ec9aa8e14dccb597c2fd9d",
+      "targetPath": "/blog/orm/3-real-world-online-reputation-management-examples-and-how-we-solved-3-very-big-problems"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/reignite-customer-confidence-4-brand-image-restoration-strategies-for-online-businesses",
+      "id": "61fd039ee7efb74f072a98fede0f9bfd6d50842f",
+      "targetPath": "/blog/smb/reignite-customer-confidence-4-brand-image-restoration-strategies-for-online-businesses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/beyond-likes-and-shares-3-expert-strategies-for-effective-brand-reputation-management",
+      "id": "440e4d26dac7cd89c9c3222a722daed3fc46f835",
+      "targetPath": "/blog/smb/beyond-likes-and-shares-3-expert-strategies-for-effective-brand-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/mastering-customer-trust-the-art-of-brand-trust-and-credibility-management-in-a-skeptical-world",
+      "id": "74f51442b681cdc79bbe79065d3bf90548d12023",
+      "targetPath": "/blog/smb/mastering-customer-trust-the-art-of-brand-trust-and-credibility-management-in-a-skeptical-world"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/brand-identity-vs-brand-image-how-to-unleash-the-explosive-power-of-both-in-your-business",
+      "id": "ba1190f0142d142d54a254b70cd42b0fb41c4056",
+      "targetPath": "/blog/smb/brand-identity-vs-brand-image-how-to-unleash-the-explosive-power-of-both-in-your-business"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/reputation-management-best-practices-boost-your-brand-image",
+      "id": "8d1a1de4bf77b0306eaee7d08b2b487d965f38b7",
+      "targetPath": "/blog/smb/reputation-management-best-practices-boost-your-brand-image"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/im-on-the-dnc-list-why-am-i-getting-so-many-calls",
+      "id": "75a1e94fb0e9fa47c6d8a8e8103597b961b8b2a4",
+      "targetPath": "/blog/privacy/im-on-the-dnc-list-why-am-i-getting-so-many-calls"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/how-remove-negative-reviews-internet",
+      "id": "7bde37bf3eb06d7ecc53b8a981445713204b89d9",
+      "targetPath": "/blog/online-reviews/how-remove-negative-reviews-internet"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-build-good-business-reputation",
+      "id": "bd0957c897116af9a31bb0b099b132f2042d200d",
+      "targetPath": "/blog/smb/how-build-good-business-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/top-ten-reasons-keep-your-personal-information-private",
+      "id": "1c19f9d27d40ce33c0b09bbae3c0b070bde36bf6",
+      "targetPath": "/blog/privacy/top-ten-reasons-keep-your-personal-information-private"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-remove-public-records-from-the-internet-in-five-steps",
+      "id": "5f12d04839db51b8e63f9f3e49684234c42014b8",
+      "targetPath": "/blog/privacy/how-to-remove-public-records-from-the-internet-in-five-steps"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/what-are-the-most-common-online-threats-to-a-brands-reputation",
+      "id": "f12d5930915cb1320cea4461f59039df978d21d7",
+      "targetPath": "/blog/smb/what-are-the-most-common-online-threats-to-a-brands-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized/drowning-in-negative-press-an-internet-reputation-company-can-be-your-lifeline-heres-why",
+      "id": "056eca0e33ddeea14bf648f0baa26e842f7e6423",
+      "targetPath": "/blog/uncategorized/drowning-in-negative-press-an-internet-reputation-company-can-be-your-lifeline-heres-why"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/what-tactics-do-competitors-use-in-smear-campaigns",
+      "id": "804422aa7fcf52ffb5de9ea636ebd6e4f1ffa500",
+      "targetPath": "/blog/smb/what-tactics-do-competitors-use-in-smear-campaigns"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/what-is-proactive-online-reputation-building",
+      "id": "e289a7a075006eb75f32f9f84679b244bd4a548c",
+      "targetPath": "/blog/orm/what-is-proactive-online-reputation-building"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/can-all-negative-online-content-be-removed-or-suppressed",
+      "id": "3009c1c93290441fa260fcd677be9ff4d1f90d3f",
+      "targetPath": "/blog/orm/can-all-negative-online-content-be-removed-or-suppressed"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-effective-is-seo-in-pushing-down-negative-content-in-search-results",
+      "id": "02e3c32c0eb293d1505babd7bb40f04025af2792",
+      "targetPath": "/blog/orm/how-effective-is-seo-in-pushing-down-negative-content-in-search-results"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/why-is-building-an-online-reputation-proactively-important",
+      "id": "d915274ebf9dd7904f783b04f8311f937b255d13",
+      "targetPath": "/blog/orm/why-is-building-an-online-reputation-proactively-important"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/you-worked-hard-for-your-business-safeguard-it-with-internet-reputation-management-services",
+      "id": "62ad5b6369efdaf6ba6c9ba27a71100510e45f8f",
+      "targetPath": "/blog/smb/you-worked-hard-for-your-business-safeguard-it-with-internet-reputation-management-services"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/7-examples-of-the-best-way-to-respond-to-a-positive-review",
+      "id": "98c4972984404b0cf9eef4fb6b3ef35f79d366a8",
+      "targetPath": "/blog/online-reviews/7-examples-of-the-best-way-to-respond-to-a-positive-review"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/5-real-world-examples-online-reputation-affecting-peoples-lives",
+      "id": "6aeeff3daa06bf7e1a8f0e45e869dfd49f0e5337",
+      "targetPath": "/blog/orm/5-real-world-examples-online-reputation-affecting-peoples-lives"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/hospital-reputation-management-9-tips-success",
+      "id": "e5a85008c9d4aca83cd903a08f28eeb58c583743",
+      "targetPath": "/blog/orm/hospital-reputation-management-9-tips-success"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-remove-whois-database-information-and-protect-your-online-privacy",
+      "id": "ddaaf435fa5c04c8cae97c698f95e97ec6b89b9c",
+      "targetPath": "/blog/privacy/how-remove-whois-database-information-and-protect-your-online-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/5-reasons-you-shouldnt-buy-google-reviews",
+      "id": "99ead34d12b197279607dafede8023b95dde27e6",
+      "targetPath": "/blog/online-reviews/5-reasons-you-shouldnt-buy-google-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-to-deal-with-online-defamation",
+      "id": "5a44e25ac98f61684222900b221bac51d7f7a49f",
+      "targetPath": "/blog/orm/how-to-deal-with-online-defamation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-talk-your-kids-about-social-media-safety",
+      "id": "0b3d1b45152a67c74b593bd840690bd680413f79",
+      "targetPath": "/blog/protect-your-kids/how-talk-your-kids-about-social-media-safety"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-correct-errors-in-employment-background-checks",
+      "id": "8fd65da2807a7e063f7884cc5bdd83f103bb3497",
+      "targetPath": "/blog/job-seekers/how-to-correct-errors-in-employment-background-checks"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/support/report-internet-blackmail-the-clear-and-best-way-to-get-help-now",
+      "id": "007378b92b9a57c89dedb490280eb6e585aac7f8",
+      "targetPath": "/blog/support/report-internet-blackmail-the-clear-and-best-way-to-get-help-now"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/search-engine-optimization-vs-online-reputation-management",
+      "id": "0a5e39be71b266641ba5ac220d3462a399d182ef",
+      "targetPath": "/blog/orm/search-engine-optimization-vs-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/local-business-search-engine-optimization-powerful-tips-to-improve-visibility",
+      "id": "b4d40cc3cacbf22635efcdadc569e88317a7591b",
+      "targetPath": "/blog/smb/local-business-search-engine-optimization-powerful-tips-to-improve-visibility"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/online-reviews-and-hipaa-what-you-need-to-know-about-responding-to-patient-reviews",
+      "id": "133afab8db1fd9b9aac49713b6ecb7e9d26c3030",
+      "targetPath": "/blog/doctors/online-reviews-and-hipaa-what-you-need-to-know-about-responding-to-patient-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/why-geotracking-is-a-growing-threat-to-online-privacy",
+      "id": "ea21367909cf5174c6cedcc98c017a2adb0f0ca6",
+      "targetPath": "/blog/privacy/why-geotracking-is-a-growing-threat-to-online-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/what-to-do-if-your-personal-information-is-exposed-in-a-security-breach",
+      "id": "a200ac7b19f602b1cc05a6ee7018086ee2e7f51f",
+      "targetPath": "/blog/privacy/what-to-do-if-your-personal-information-is-exposed-in-a-security-breach"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-remove-article-internet",
+      "id": "18eec20446d80ba549f3566051bcf1df68bc23c8",
+      "targetPath": "/blog/orm/how-remove-article-internet"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-best-free-tools-for-online-reputation-management",
+      "id": "9b36e3757c2d425bf95e3f9651e0aa9f310e08ad",
+      "targetPath": "/blog/orm/the-best-free-tools-for-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/discover-how-to-maximize-your-personal-online-brand-reputation",
+      "id": "175a9a088bd015ce7c9efe586e6dcde558c839d9",
+      "targetPath": "/blog/orm/discover-how-to-maximize-your-personal-online-brand-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/personal-branding-ideas-that-help-improve-your-image",
+      "id": "1546739474b2b3468f5cd3b75f7557801a98060c",
+      "targetPath": "/blog/orm/personal-branding-ideas-that-help-improve-your-image"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/exploring-cyber-security-in-the-future-and-its-effect-on-digital-privacy",
+      "id": "bdd6f518439cb390304656a29bea310b3ffe44b7",
+      "targetPath": "/blog/smb/exploring-cyber-security-in-the-future-and-its-effect-on-digital-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/4-examples-of-online-fights-that-caused-permanent-reputation-damage",
+      "id": "756a61075ec1b9790213fa3503f08da0732a8bb1",
+      "targetPath": "/blog/orm/4-examples-of-online-fights-that-caused-permanent-reputation-damage"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/polishing-page-one-negativity-a-guide-to-google-search-suppression",
+      "id": "9f39c08cb98034adc7ae1666238ff2f82efc3dc2",
+      "targetPath": "/blog/orm/polishing-page-one-negativity-a-guide-to-google-search-suppression"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/13-things-you-need-to-include-in-your-career-portfolio",
+      "id": "a241f43a86697092b09d3b807e99678b532527b3",
+      "targetPath": "/blog/job-seekers/13-things-you-need-to-include-in-your-career-portfolio"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-powerful-personal-values-statement",
+      "id": "23cb22ee85c90d4ff302173d7d1af7d1717ad33d",
+      "targetPath": "/blog/job-seekers/how-to-write-a-powerful-personal-values-statement"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/how-search-deep-web-protect-your-online-reputation-and-privacy",
+      "id": "92bc9f26d49630a795fb78525c9c2404524c54a7",
+      "targetPath": "/blog/search-engines/how-search-deep-web-protect-your-online-reputation-and-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-reputation-revolution-how-google-reputation-management-is-changing-the-game-for-businesses",
+      "id": "836c70d6a58c5a90f39c7bde14c00e14ea309ae7",
+      "targetPath": "/blog/orm/the-reputation-revolution-how-google-reputation-management-is-changing-the-game-for-businesses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/maximize-positive-engagement-top-online-reputation-management-tips-for-brand-marketers",
+      "id": "7c42899ff237326f471e008c80f0ecf47f5de1c5",
+      "targetPath": "/blog/orm/maximize-positive-engagement-top-online-reputation-management-tips-for-brand-marketers"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/personal-branding-strategies-for-social-media-elevating-your-online-presence",
+      "id": "5c9d5d1866f9d68c143953747e18d0c6fd1752a5",
+      "targetPath": "/blog/social-media/personal-branding-strategies-for-social-media-elevating-your-online-presence"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/employment-background-checks-tailored-for-the-modern-workforce-adapting-to-new-hiring-challenges",
+      "id": "ca88807c46009de9b76170ed3422599d8659246f",
+      "targetPath": "/blog/smb/employment-background-checks-tailored-for-the-modern-workforce-adapting-to-new-hiring-challenges"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-online-data-insurance-companies",
+      "id": "742fc9a63b8775598346d91239613f210472dfb8",
+      "targetPath": "/blog/privacy/how-protect-your-online-data-insurance-companies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/7-smart-ways-to-protect-your-reputation-on-social-media",
+      "id": "b3149a288360847ac33fed07f1a7546f88239a5b",
+      "targetPath": "/blog/social-media/7-smart-ways-to-protect-your-reputation-on-social-media"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/7-personal-branding-tips-for-introverts-enhancing-your-quiet-strengths",
+      "id": "e8f19b231d32ed5027f8e7c90a1f2b3887e97ed5",
+      "targetPath": "/blog/orm/7-personal-branding-tips-for-introverts-enhancing-your-quiet-strengths"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-playbook-online-reputation-management-individuals-can-use-to-manage-the-power-of-online-perception",
+      "id": "9ec0c40f1aeeefea84e8d953ce5483b1a5909b6b",
+      "targetPath": "/blog/orm/the-playbook-online-reputation-management-individuals-can-use-to-manage-the-power-of-online-perception"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-professional-background-summary-that-gets-you-noticed",
+      "id": "d0b8102006b9c3fe806a62996353846a5a6022f0",
+      "targetPath": "/blog/job-seekers/how-to-write-a-professional-background-summary-that-gets-you-noticed"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities/how-celebrities-protect-their-personal-information",
+      "id": "a16b0e81e4c03e8ff34f599a33b07def787b3503",
+      "targetPath": "/blog/celebrities/how-celebrities-protect-their-personal-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/why-online-reputation-management-for-public-speakers-can-boost-personal-branding-through-the-roof",
+      "id": "272bb17db558fef100ef7e176f8b0923d17ac745",
+      "targetPath": "/blog/orm/why-online-reputation-management-for-public-speakers-can-boost-personal-branding-through-the-roof"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/strategies-for-responding-to-online-feedback-as-a-corporate-executive-on-linkedin",
+      "id": "70f7b53a717993fa4efbde04b3f57b1430cdb6d5",
+      "targetPath": "/blog/executives/strategies-for-responding-to-online-feedback-as-a-corporate-executive-on-linkedin"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/personal-branding-elevating-your-online-presence-as-a-corporate-executive",
+      "id": "d9110ce63871cd766ab4dea3cb001e2af039558e",
+      "targetPath": "/blog/executives/personal-branding-elevating-your-online-presence-as-a-corporate-executive"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/the-step-by-step-guide-to-online-reputation-management-for-digital-marketing-professionals",
+      "id": "9c10e96aa901bdb5ac43925f9e1e8702fee9bea8",
+      "targetPath": "/blog/professionals/the-step-by-step-guide-to-online-reputation-management-for-digital-marketing-professionals"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/what-is-online-corporate-reputation-management-and-why-it-matters-for-your-business",
+      "id": "246be81d3aea55a602d792eec1ebf8117d3ba13d",
+      "targetPath": "/blog/orm/what-is-online-corporate-reputation-management-and-why-it-matters-for-your-business"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-recognize-prevent-and-respond-to-cyberbullying",
+      "id": "88aece4d0f192581324fbd37897ed09877d6ed42",
+      "targetPath": "/blog/protect-your-kids/how-recognize-prevent-and-respond-to-cyberbullying"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-dos-and-donts-of-managing-your-online-image-as-a-corporate-executive",
+      "id": "b757557a02a18d767cd07df84f6d2f3db4effe3f",
+      "targetPath": "/blog/executives/the-dos-and-donts-of-managing-your-online-image-as-a-corporate-executive"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized/manage-google-alerts-like-a-pro-to-keep-your-online-reputation-spotless",
+      "id": "ce0c581d8f5bb42e43494d02a5103be500160f07",
+      "targetPath": "/blog/uncategorized/manage-google-alerts-like-a-pro-to-keep-your-online-reputation-spotless"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/protecting-your-reputation-best-practices-for-corporate-executives-online",
+      "id": "09c248f4c5a5b7e7008d34e7a0499152479ad4ce",
+      "targetPath": "/blog/executives/protecting-your-reputation-best-practices-for-corporate-executives-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-often-should-you-check-your-online-reputation-discover-the-ideal-frequency",
+      "id": "fedbbae7a37d8131dbf43acfd52479caadccfbee",
+      "targetPath": "/blog/orm/how-often-should-you-check-your-online-reputation-discover-the-ideal-frequency"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-connection-between-online-anonymity-and-civility",
+      "id": "b0f7ec81642edea6f41c15e2bd9b10b935fee1c6",
+      "targetPath": "/blog/orm/the-connection-between-online-anonymity-and-civility"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/how-social-media-reputation-management-tools-can-transform-your-brand",
+      "id": "c6971fa1af237ad120611a2577cb8786cc5fa821",
+      "targetPath": "/blog/social-media/how-social-media-reputation-management-tools-can-transform-your-brand"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/dangerous-mistakes-to-avoid-in-executive-online-reputation-management",
+      "id": "2380a3311da6e80d04dc5e971a5abf273bea5dd2",
+      "targetPath": "/blog/executives/dangerous-mistakes-to-avoid-in-executive-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/what-is-corporate-reputation-management-a-guide-to-protecting-your-brands-image",
+      "id": "3ff0c28e1031c98c9dfffc6dbe27a1a071b6d3ef",
+      "targetPath": "/blog/orm/what-is-corporate-reputation-management-a-guide-to-protecting-your-brands-image"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/how-to-reply-to-a-bad-review-transforming-criticism-into-customer-loyalty",
+      "id": "ab8bd8a707ac188d31fcf40d66c2475981e84328",
+      "targetPath": "/blog/online-reviews/how-to-reply-to-a-bad-review-transforming-criticism-into-customer-loyalty"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized/internet-privacy-protection-software-key-features-to-look-for",
+      "id": "3e671cc2d9c52ff0e91274e71566af5aeb773d34",
+      "targetPath": "/blog/uncategorized/internet-privacy-protection-software-key-features-to-look-for"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized/internet-privacy-guide-expert-advice-on-avoiding-online-threats",
+      "id": "016773b7d6d6ae317559a9ddc2e9fa4cf9c3c449",
+      "targetPath": "/blog/uncategorized/internet-privacy-guide-expert-advice-on-avoiding-online-threats"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-do-i-remove-old-accounts-and-profiles-from-the-internet-a-simple-6-step-strategy",
+      "id": "585d8301d99540e412c11e9c7c25fa6acb8acd16",
+      "targetPath": "/blog/privacy/how-do-i-remove-old-accounts-and-profiles-from-the-internet-a-simple-6-step-strategy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/make-your-mark-essential-advice-on-the-key-elements-of-personal-branding",
+      "id": "ba75b22a59c69d7893cdec13fbba948f522323e1",
+      "targetPath": "/blog/orm/make-your-mark-essential-advice-on-the-key-elements-of-personal-branding"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/digital-reputation-management-for-ceos",
+      "id": "87ce35c58fc9fcabab5c32cb90bed9c68e663335",
+      "targetPath": "/blog/executives/digital-reputation-management-for-ceos"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/whats-the-impact-of-ai-on-digital-privacy-are-you-at-risk",
+      "id": "c95ecc940552c2f6aaa91ae808fbe1499c7d6434",
+      "targetPath": "/blog/privacy/whats-the-impact-of-ai-on-digital-privacy-are-you-at-risk"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/what-strategies-can-i-use-to-combat-negative-seo-online-reputation-tactics",
+      "id": "fbaece60422aa9e59176917c0e9e18525dd30028",
+      "targetPath": "/blog/smb/what-strategies-can-i-use-to-combat-negative-seo-online-reputation-tactics"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/11-smart-ways-to-protect-your-email-privacy",
+      "id": "fc065f136472c57aeb96064dcea1b76369b2f977",
+      "targetPath": "/blog/privacy/11-smart-ways-to-protect-your-email-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/executive-data-breach-response-plan-strategies-for-immediate-and-long-term-action",
+      "id": "f17d0a91b0e04cff37a6872e84a84824ed3fb68d",
+      "targetPath": "/blog/smb/executive-data-breach-response-plan-strategies-for-immediate-and-long-term-action"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/10-signs-you-desperately-need-social-media-reputation-services",
+      "id": "967dc90db53c8bfecb7c45df79dd1363fafafcff",
+      "targetPath": "/blog/smb/10-signs-you-desperately-need-social-media-reputation-services"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/7-ways-social-media-auditing-can-save-and-repair-your-personal-brand-reputation",
+      "id": "0d174a81291766741ed4b6489ab2a34ec7114408",
+      "targetPath": "/blog/social-media/7-ways-social-media-auditing-can-save-and-repair-your-personal-brand-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/outrank-the-hate-the-seo-reputation-repair-playbook-to-rise-back-to-the-top-of-google",
+      "id": "13545f6e9a71e35ff2d443d396b70163616ae3b4",
+      "targetPath": "/blog/search-engines/outrank-the-hate-the-seo-reputation-repair-playbook-to-rise-back-to-the-top-of-google"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/is-your-past-haunting-your-future-the-ultimate-guide-to-personal-reputation-repair",
+      "id": "71c321f5a5dca649ab47dd455a738c35a7779e95",
+      "targetPath": "/blog/orm/is-your-past-haunting-your-future-the-ultimate-guide-to-personal-reputation-repair"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/top-innovations-for-c-suite-identity-security-solutions-360-degree-executive-privacy-protection",
+      "id": "a0eb1351f107c79876d6b0083ded7be0e8c906ec",
+      "targetPath": "/blog/executives/top-innovations-for-c-suite-identity-security-solutions-360-degree-executive-privacy-protection"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-personal-it-affects-corporate-information-security",
+      "id": "695b2633d051f609336cd7d1af1039d91924bdf9",
+      "targetPath": "/blog/smb/how-personal-it-affects-corporate-information-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/support/recognize-and-avoid-apple-support-scams",
+      "id": "af50c49270ec300e5b485459576fc9dcd1118d2d",
+      "targetPath": "/blog/support/recognize-and-avoid-apple-support-scams"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/online-review-management-the-complete-guide",
+      "id": "58a09b4dd68274409d2f90c149bedfa94ad6818e",
+      "targetPath": "/blog/online-reviews/online-review-management-the-complete-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-delete-flash-cookies-permacookies-and-zombie-cookies",
+      "id": "7e61c2a458b0c10fb5c2b93e413fb406a24b48cf",
+      "targetPath": "/blog/privacy/how-to-delete-flash-cookies-permacookies-and-zombie-cookies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/top-7-online-reputation-management-mistakes-businesses-need-to-avoid",
+      "id": "3bcd05c4f9fa612790aa12fa7d4f5981302626ed",
+      "targetPath": "/blog/orm/top-7-online-reputation-management-mistakes-businesses-need-to-avoid"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/how-social-media-can-ruin-your-online-reputation",
+      "id": "dd07070f1aec7d1b58abb480d461f8793f275247",
+      "targetPath": "/blog/social-media/how-social-media-can-ruin-your-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-opt-out-radaris-and-protect-your-privacy",
+      "id": "477e95e39f0c633ba5ca2a7eda5d740b5d1f0871",
+      "targetPath": "/blog/privacy/how-opt-out-radaris-and-protect-your-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-missing-link-in-corporate-it-security",
+      "id": "5d1ea02f93bc78fbd8275a8b4af3a58e94b8b2c3",
+      "targetPath": "/blog/executives/the-missing-link-in-corporate-it-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-social-engineers-find-your-personal-information",
+      "id": "17d49ad97179345ae7bfa4967ea5691328a9a08e",
+      "targetPath": "/blog/privacy/how-social-engineers-find-your-personal-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/six-common-approaches-to-executive-social-engineering",
+      "id": "834c5ecc86b1714fa43696e08cd530404abdfe8d",
+      "targetPath": "/blog/executives/six-common-approaches-to-executive-social-engineering"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-to-protect-your-online-reputation",
+      "id": "324df93373b758565310c13c3e3050588c7b0488",
+      "targetPath": "/blog/orm/how-to-protect-your-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-find-out-who-searching-you-online",
+      "id": "cb70d5bdab547caa26b388995b1e88187be6bfc2",
+      "targetPath": "/blog/privacy/how-find-out-who-searching-you-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/definitive-guide-getting-embarrassing-photos-internet",
+      "id": "ffb661d34dbdde6820dbf4e3e9548f4505eb6a5c",
+      "targetPath": "/blog/orm/definitive-guide-getting-embarrassing-photos-internet"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/end-revenge-porn",
+      "id": "cf73ee659c01b79beffb4946e7603489ee606fab",
+      "targetPath": "/blog/privacy/end-revenge-porn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-remove-your-online-mug-shot",
+      "id": "c7ba5fd30d845f3b5a0f4efbb26d7d4958bb84c2",
+      "targetPath": "/blog/orm/how-remove-your-online-mug-shot"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-remove-post-thedirtycom",
+      "id": "27a7c966b7a5870ff19417281dea7e7e6c46104f",
+      "targetPath": "/blog/orm/how-remove-post-thedirtycom"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/what-do-when-ex-employees-damage-your-reputation",
+      "id": "6fdb44bc59a4ef9efbc51f589e3a4f496ccd5a09",
+      "targetPath": "/blog/smb/what-do-when-ex-employees-damage-your-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/essentials-small-business-management",
+      "id": "b2f9688863be0c9b7705058c8a4e56cf2b9a5c67",
+      "targetPath": "/blog/smb/essentials-small-business-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-remove-your-phone-number-internet",
+      "id": "9a5635a8f4188869d5663d5df88bbfafbcaee374",
+      "targetPath": "/blog/privacy/how-remove-your-phone-number-internet"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/online-blackmail-can-go-away",
+      "id": "08d337339b7b7a1ff8339566a2f2a7624a15c86a",
+      "targetPath": "/blog/privacy/online-blackmail-can-go-away"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/what-are-different-types-internet-blackmail",
+      "id": "c202196c64fbe5bf4ee4f89985485d43a78b3a38",
+      "targetPath": "/blog/privacy/what-are-different-types-internet-blackmail"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/understanding-internet-blackmail-laws",
+      "id": "1e94c6a480aaf6d2638e2bb6f571e06795163250",
+      "targetPath": "/blog/privacy/understanding-internet-blackmail-laws"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/online-impersonation-laws",
+      "id": "549c9456a80dc2f9721d393e260f857d523266e0",
+      "targetPath": "/blog/privacy/online-impersonation-laws"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/streisand-effect",
+      "id": "c000bb76f291fcd46c55d2db303a0293cf68be43",
+      "targetPath": "/blog/orm/streisand-effect"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/remove-pipl-information",
+      "id": "d61126209d7997adb4b50e5da25586d57b6ec77f",
+      "targetPath": "/blog/privacy/remove-pipl-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/top-five-social-media-privacy-concerns",
+      "id": "e985947dafc307172edb9f63635e271f2df9e2d9",
+      "targetPath": "/blog/privacy/top-five-social-media-privacy-concerns"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-pick-right-username",
+      "id": "428b8bb365b45a4c0bae9e1603aea79029e3fbfb",
+      "targetPath": "/blog/orm/how-pick-right-username"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-block-internet-ad-tracking-and-maintain-your-online-privacy",
+      "id": "19d29a49b722053ea37f2dc61d1c1abd88eeea4a",
+      "targetPath": "/blog/privacy/how-block-internet-ad-tracking-and-maintain-your-online-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/customer-privacy-important-part-business-strategy",
+      "id": "6144f47349135af80763f2940aa39605bc115636",
+      "targetPath": "/blog/executives/customer-privacy-important-part-business-strategy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-prevent-or-defend-against-online-stalking",
+      "id": "3d3a3e01022d00d415a86feb20dc981969a926b9",
+      "targetPath": "/blog/privacy/how-prevent-or-defend-against-online-stalking"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-privacy-itunes-apps",
+      "id": "621abe82d6bb080c99b2216054eab4f722cc6377",
+      "targetPath": "/blog/privacy/how-protect-your-privacy-itunes-apps"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-privacy-while-surfing-web-your-mobile-device",
+      "id": "6ce90033073552258b3e2f72c3110bf2094f4a6c",
+      "targetPath": "/blog/privacy/how-protect-your-privacy-while-surfing-web-your-mobile-device"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-prevent-teenagers-sexting-and-protect-them-other-teens-who-do",
+      "id": "bc19f8b2d3833f94da83e29c1707bbae26075f67",
+      "targetPath": "/blog/protect-your-kids/how-prevent-teenagers-sexting-and-protect-them-other-teens-who-do"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-remove-negative-information-and-news-articles-web",
+      "id": "758d1b0484928234da03fe027e078a1537a904f2",
+      "targetPath": "/blog/privacy/how-remove-negative-information-and-news-articles-web"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-protect-your-online-reputation-and-privacy-people-search-companies",
+      "id": "bef1be3e2c1c538e619f7aca6432c8280653f02e",
+      "targetPath": "/blog/privacy/how-protect-your-online-reputation-and-privacy-people-search-companies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/how-get-your-name-top-google-search",
+      "id": "1e25c985726dedb802b07c7fa78008c2cd754ad2",
+      "targetPath": "/blog/search-engines/how-get-your-name-top-google-search"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/top-five-common-sense-social-networking-rules-kids",
+      "id": "7dd79b6c4a5787e7beb625244ffa570375a54e4c",
+      "targetPath": "/blog/protect-your-kids/top-five-common-sense-social-networking-rules-kids"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/consequences-oversharing-social-networks",
+      "id": "64162a7176a87c4a50afebc46b79371c1cd74c7b",
+      "targetPath": "/blog/social-media/consequences-oversharing-social-networks"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/if-youre-not-google-you-dont-exist",
+      "id": "6bc5927293e4f713c74d011a7df116c698dc065c",
+      "targetPath": "/blog/orm/if-youre-not-google-you-dont-exist"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-invisible-shield-how-anonymizing-executives-strengthens-corporate-defenses",
+      "id": "65ad64466717094477f91f17bbf45704a71394fb",
+      "targetPath": "/blog/executives/the-invisible-shield-how-anonymizing-executives-strengthens-corporate-defenses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/how-to-protect-your-privacy-online-for-c-suite-executives",
+      "id": "4b049c95aba0159ab83b3cf6f7c8422d214ef935",
+      "targetPath": "/blog/executives/how-to-protect-your-privacy-online-for-c-suite-executives"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-top-3-cyberthreats-for-executives-all-involve-personal-information",
+      "id": "d70a85b5a9e103a169ccd8b2854dd28b7558ab39",
+      "targetPath": "/blog/executives/the-top-3-cyberthreats-for-executives-all-involve-personal-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/safeguarding-corporate-leadership-executive-privacy-in-the-digital-age",
+      "id": "12a9490a3b2c419060406a99bc0054e4bbe40b7e",
+      "targetPath": "/blog/executives/safeguarding-corporate-leadership-executive-privacy-in-the-digital-age"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/executive-impersonation-risks-and-prevention",
+      "id": "458475185a3db7337912c009616ef4bdc33382ba",
+      "targetPath": "/blog/executives/executive-impersonation-risks-and-prevention"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/how-to-safeguard-executives-against-cyber-threats",
+      "id": "dee0d3a1a28815b253fe450b68dc8998978dd253",
+      "targetPath": "/blog/executives/how-to-safeguard-executives-against-cyber-threats"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/mastering-discretion-9-best-practices-for-executive-privacy-on-business-trips",
+      "id": "0b8cf579859f4b03fc13a84d59f2a4476634ea61",
+      "targetPath": "/blog/privacy/mastering-discretion-9-best-practices-for-executive-privacy-on-business-trips"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/when-google-gets-it-wrong-how-to-avoid-mistaken-identity-in-knowledge-panels",
+      "id": "b42e6e2ed1de6c1b77803223a6fd79d73933a950",
+      "targetPath": "/blog/search-engines/when-google-gets-it-wrong-how-to-avoid-mistaken-identity-in-knowledge-panels"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-unique-executive-threats-from-each-of-the-top-social-media-sites",
+      "id": "9edf1719e646524e404f4ab4dab323f2afe3d93a",
+      "targetPath": "/blog/executives/the-unique-executive-threats-from-each-of-the-top-social-media-sites"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-employee-privacy-can-help-protect-businesses-from-ransomware",
+      "id": "5e83ac969f82938cf98a7d9b1fc3c7afb8112322",
+      "targetPath": "/blog/privacy/how-employee-privacy-can-help-protect-businesses-from-ransomware"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/its-not-personal-how-people-search-sites-create-threats-for-businesses",
+      "id": "11cc3ece41df48d3dc981871a193c1d0164b1304",
+      "targetPath": "/blog/privacy/its-not-personal-how-people-search-sites-create-threats-for-businesses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/the-corporate-security-risks-of-being-on-linkedin",
+      "id": "0943915e1bebc420520355708285d02a27e54683",
+      "targetPath": "/blog/privacy/the-corporate-security-risks-of-being-on-linkedin"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/does-doxxing-mean-the-end-for-executives-explore-this-phenomenon-its-impact-and-how-to-avoid-it",
+      "id": "ceaf3d1e53157bee438594b084cda574ad84acfa",
+      "targetPath": "/blog/executives/does-doxxing-mean-the-end-for-executives-explore-this-phenomenon-its-impact-and-how-to-avoid-it"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/identity-protection-services-for-executives-ensuring-top-level-security",
+      "id": "bf0b74f719c1f399fca63d9cfbc74d832303f658",
+      "targetPath": "/blog/executives/identity-protection-services-for-executives-ensuring-top-level-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/navigating-the-data-privacy-maze-a-c%e2%80%91suite-guide-to-privacy-by-design",
+      "id": "7647c08de89535e212297241310f8c3ee9d44454",
+      "targetPath": "/blog/executives/navigating-the-data-privacy-maze-a-c-suite-guide-to-privacy-by-design"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/real-world-examples-of-executives-being-targeted-due-to-online-personal-information",
+      "id": "10c240176f437dd17658fb72cda20f7e95bde785",
+      "targetPath": "/blog/executives/real-world-examples-of-executives-being-targeted-due-to-online-personal-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/top-identity-protection-services-for-executives-discover-whats-working",
+      "id": "3795072bd487bc9991ed113eb646b60d1b8a3961",
+      "targetPath": "/blog/executives/top-identity-protection-services-for-executives-discover-whats-working"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/you-cant-protect-executives-from-social-engineering-if-your-security-plan-ignores-this-one-thing",
+      "id": "5aa6176344fa452ebfbe9d1510b12d12efce792e",
+      "targetPath": "/blog/executives/you-cant-protect-executives-from-social-engineering-if-your-security-plan-ignores-this-one-thing"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/4-ways-to-keep-corporate-credentials-off-the-dark-web",
+      "id": "079d573ca18668681279bd47e48c61040c3d8e61",
+      "targetPath": "/blog/privacy/4-ways-to-keep-corporate-credentials-off-the-dark-web"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/your-roadmap-to-combating-the-latest-online-privacy-threats-facing-executives",
+      "id": "977952fb129a0766cfe00d7ded9a452a339b339a",
+      "targetPath": "/blog/privacy/your-roadmap-to-combating-the-latest-online-privacy-threats-facing-executives"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/21-privacy-stats-executives-need-to-know",
+      "id": "61e606d39dbebf44c4c99b5dadfe71c813bb4657",
+      "targetPath": "/blog/executives/21-privacy-stats-executives-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/10-examples-of-the-best-personal-websites",
+      "id": "94b622efd859187646490ef6638e9d56425f22ab",
+      "targetPath": "/blog/orm/10-examples-of-the-best-personal-websites"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/personal-brand-management-for-athletes",
+      "id": "e1d576b76fbbaee0d24c4acf0a5b378637f4e8fd",
+      "targetPath": "/blog/orm/personal-brand-management-for-athletes"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/what-aspiring-politicians-need-to-know-about-online-reputation-management",
+      "id": "b1c71566c80ada40499ea6549f1ad7861d2a1ca2",
+      "targetPath": "/blog/orm/what-aspiring-politicians-need-to-know-about-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-what-psychologists-counselors-and-social-workers-need-to-know",
+      "id": "36fa65e6933c22174e467abe74083036461143fc",
+      "targetPath": "/blog/professionals/online-reputation-management-what-psychologists-counselors-and-social-workers-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/9-essential-online-reputation-management-tips-for-educators",
+      "id": "f51e131a68bff4012c42ca7c29c15013c270a16c",
+      "targetPath": "/blog/professionals/9-essential-online-reputation-management-tips-for-educators"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/why-ceo-reputation-management-matters",
+      "id": "d1a92437efa42aad4036481cdde159621b607b85",
+      "targetPath": "/blog/executives/why-ceo-reputation-management-matters"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-do-prospective-employees-assess-the-reputation-of-your-company",
+      "id": "89a792071205e62546c61abc0e58499f30de0de2",
+      "targetPath": "/blog/smb/how-do-prospective-employees-assess-the-reputation-of-your-company"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/personal-branding-versus-online-reputation-management",
+      "id": "70d48db1b55e4c015e897322095121c0f884024e",
+      "targetPath": "/blog/orm/personal-branding-versus-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/from-gen-z-to-the-silent-generation-the-online-etiquette-mistakes-each-generation-makes",
+      "id": "aae8bf25279a11c420ac2f9825a44846211af01b",
+      "targetPath": "/blog/orm/from-gen-z-to-the-silent-generation-the-online-etiquette-mistakes-each-generation-makes"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-to-make-online-reputation-management-part-of-your-smart-marketing-plan",
+      "id": "51517840609f519d6b2bbdb63879b3f76bd2c0ce",
+      "targetPath": "/blog/orm/how-to-make-online-reputation-management-part-of-your-smart-marketing-plan"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/lawyers/5-examples-of-lawyers-using-social-media-effectively",
+      "id": "040e2af84b2b81227a4bea1e39a504d9ff7a8aa4",
+      "targetPath": "/blog/lawyers/5-examples-of-lawyers-using-social-media-effectively"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/ted-rubins-return-on-relationship-a-roadmap-for-online-reputation-management",
+      "id": "289b99f82fc0353be4d3f8ee89e518c6bcda8cfb",
+      "targetPath": "/blog/orm/ted-rubins-return-on-relationship-a-roadmap-for-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/what-successful-doctors-know-about-branding-themselves-online",
+      "id": "6ed80be099d7142b064afbdd6d2286b4a98fe6f7",
+      "targetPath": "/blog/doctors/what-successful-doctors-know-about-branding-themselves-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media/social-media-tips-for-businesses",
+      "id": "ecc7594edc588237a876843fd20b341922ccac2b",
+      "targetPath": "/blog/social-media/social-media-tips-for-businesses"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-to-fix-a-restaurants-bad-reputation",
+      "id": "f90aa4238df6156a400a96deb42c91b1d194b509",
+      "targetPath": "/blog/smb/how-to-fix-a-restaurants-bad-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/reputation-risk-management-a-false-sense-of-security",
+      "id": "be363879ee5ce14a3e9ccfe2499e70a7aaf6b47a",
+      "targetPath": "/blog/smb/reputation-risk-management-a-false-sense-of-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/lawyers/dos-donts-negative-attorney-reviews",
+      "id": "f34b763b0c01a621673ba9a6ef1e4ed8d4a5f56c",
+      "targetPath": "/blog/lawyers/dos-donts-negative-attorney-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/when-wikipedia-tarnishes-your-online-reputation",
+      "id": "a9cded125554c903b80c7428059e7206a5312706",
+      "targetPath": "/blog/orm/when-wikipedia-tarnishes-your-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-check-your-doctors-reputation",
+      "id": "d9684a36742c272fe563486e366a92d0b37f9a2e",
+      "targetPath": "/blog/orm/how-check-your-doctors-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities/celebrity-image-management-how-it-works",
+      "id": "c9461df7769c5beb7b3e9df2b4ce690c9c890f4f",
+      "targetPath": "/blog/celebrities/celebrity-image-management-how-it-works"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines/3-steps-removing-negative-search-results",
+      "id": "0fd48d83fd5074948bd5c957a33d539a12646f07",
+      "targetPath": "/blog/search-engines/3-steps-removing-negative-search-results"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/tips-teenage-online-reputation-management",
+      "id": "aec770b2e7113e8f31c4ef1392f891b0c0c79175",
+      "targetPath": "/blog/orm/tips-teenage-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-government-helps-keep-your-kids-safe-online",
+      "id": "7e9de32139a28f3fd998ed56a08a3e39be597c79",
+      "targetPath": "/blog/protect-your-kids/how-government-helps-keep-your-kids-safe-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/online-reputation-management-primer-for-dentists",
+      "id": "f0a3394f15ad7226f8b5eee9e495fc567b3c838d",
+      "targetPath": "/blog/professionals/online-reputation-management-primer-for-dentists"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/make-your-linkedin-profile-online-reputation-management-tool",
+      "id": "67f1dfa13518c22b23bb3c4352a5b27264702255",
+      "targetPath": "/blog/job-seekers/make-your-linkedin-profile-online-reputation-management-tool"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/physician-online-reputation-management",
+      "id": "1ba3f33dd4e8ded9ea42730b898fad4101cddc93",
+      "targetPath": "/blog/doctors/physician-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-companies-collect-your-private-information-when-you-browse-online",
+      "id": "c178025055fb26d72d200a65162445145ab1d9ba",
+      "targetPath": "/blog/privacy/how-companies-collect-your-private-information-when-you-browse-online"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-remove-information-intelius-and-protect-your-privacy",
+      "id": "fb8ce866c791feca686b4b4f27aba3fafd58b74a",
+      "targetPath": "/blog/privacy/how-remove-information-intelius-and-protect-your-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-remove-yourself-top-peoplesearch-sites",
+      "id": "323cd8ce1d72059573225ee3dd11e401d2ed8f87",
+      "targetPath": "/blog/privacy/how-remove-yourself-top-peoplesearch-sites"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/business-reputation-management-lessons-fortune-500-companies",
+      "id": "307070940fd6e8f25e1e46ecd4139dc7835dbe46",
+      "targetPath": "/blog/smb/business-reputation-management-lessons-fortune-500-companies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-create-safe-and-effective-online-business-listings-wont-damage-your-reputation",
+      "id": "e635a5542c56d39b71f79515d7fa27341127c378",
+      "targetPath": "/blog/smb/how-create-safe-and-effective-online-business-listings-wont-damage-your-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-avoid-fake-facebook-friend-requests",
+      "id": "cfe006bd883cb43b409e0fb74f9faf5e32fbd1d0",
+      "targetPath": "/blog/privacy/how-avoid-fake-facebook-friend-requests"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/choose-right-facebook-profile-picture",
+      "id": "681aa40c196f72a7d87e6e1973a0f7f7dfe30667",
+      "targetPath": "/blog/privacy/choose-right-facebook-profile-picture"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/remove-suppress-ripoff-report-reviews",
+      "id": "1070c24c1e5d5d9f4b2372ff5218a0c723190be0",
+      "targetPath": "/blog/smb/remove-suppress-ripoff-report-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-choose-online-reputation-management-company",
+      "id": "089a20782656f13646b20d41e9f01713633308a0",
+      "targetPath": "/blog/orm/how-choose-online-reputation-management-company"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/6-resilient-ways-to-protect-brand-reputation-in-2023-the-must-have-checklist-for-your-business",
+      "id": "190bf5f6c8af6677b1633df68b8fe7dd65a0a83c",
+      "targetPath": "/blog/smb/6-resilient-ways-to-protect-brand-reputation-in-2023-the-must-have-checklist-for-your-business"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-delete-yourself-from-the-internet",
+      "id": "e99e677eea15d23306e2290e5d6b64cbb5a237c0",
+      "targetPath": "/blog/privacy/how-to-delete-yourself-from-the-internet"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/50-online-reputation-stats-you-need-to-know",
+      "id": "c79e23e71a76b9984e7b0782e011fee72e52447e",
+      "targetPath": "/blog/orm/50-online-reputation-stats-you-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/control-whats-seen-on-google-how-to-push-down-negative-search-results-in-2024",
+      "id": "9d8eb2e75921a8024fa94fd3e7bf8ff00329a883",
+      "targetPath": "/blog/orm/control-whats-seen-on-google-how-to-push-down-negative-search-results-in-2024"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/7-new-eye-opening-statistics-about-online-reputation-for-2023",
+      "id": "8544c88f47437f0e8dfc8cdb4cd188f1d8353957",
+      "targetPath": "/blog/orm/7-new-eye-opening-statistics-about-online-reputation-for-2023"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/corporate-social-engineering-what-makes-for-an-appealing-mark",
+      "id": "53bc3267fd37886fa5a10cbde94d5708387f2c77",
+      "targetPath": "/blog/executives/corporate-social-engineering-what-makes-for-an-appealing-mark"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/what-are-reputation-management-consultants",
+      "id": "8d661db535e9c4b8265649a5364174a2454af64e",
+      "targetPath": "/blog/orm/what-are-reputation-management-consultants"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-a-powerful-personal-mission-statement",
+      "id": "9c25da8e06f8d63e8c05d840a7b65a2d86b8718f",
+      "targetPath": "/blog/job-seekers/how-to-write-a-powerful-personal-mission-statement"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/online-reputation-management-tips-for-recent-college-graduates",
+      "id": "3178932bebd3dd34f27e3be4941209e327a30f53",
+      "targetPath": "/blog/orm/online-reputation-management-tips-for-recent-college-graduates"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/executive-privacy-and-online-data-brokers-what-you-need-to-know-to-avoid-vulnerability",
+      "id": "0be3f20fd3d203435674cbc4cbb9d2ced00d2eee",
+      "targetPath": "/blog/executives/executive-privacy-and-online-data-brokers-what-you-need-to-know-to-avoid-vulnerability"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized/online-reputation-management-for-digital-marketing-agencies-strategies-for-success",
+      "id": "c37ce734d8c021f51d31f6694072ae5320c16e42",
+      "targetPath": "/blog/uncategorized/online-reputation-management-for-digital-marketing-agencies-strategies-for-success"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/5-most-common-causes-negative-doctor-reviews",
+      "id": "664252512b6d26361cc6206c38d3538f0d3e00f4",
+      "targetPath": "/blog/doctors/5-most-common-causes-negative-doctor-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/why-online-privacy-is-vital-to-executive-protection",
+      "id": "4a7b9515021e6f3f4c1cd9423b313642cdd64ca3",
+      "targetPath": "/blog/privacy/why-online-privacy-is-vital-to-executive-protection"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/putting-price-tag-corporate-reputation-management",
+      "id": "f3db699cd75612679286bd6ce5dc3b82a256133e",
+      "targetPath": "/blog/smb/putting-price-tag-corporate-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-digital-corner-office-how-executive-reputation-management-opens-or-closes-c-suite-doors",
+      "id": "6d336d597b88ebbdf7da959685bd1068aec75dbe",
+      "targetPath": "/blog/executives/the-digital-corner-office-how-executive-reputation-management-opens-or-closes-c-suite-doors"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities/balancing-fame-and-personal-boundaries-the-essential-public-figure-online-privacy-guide",
+      "id": "6d5e6ab5e4e333b59cbe0e04de607ce9c2f2d6e9",
+      "targetPath": "/blog/celebrities/balancing-fame-and-personal-boundaries-the-essential-public-figure-online-privacy-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/everything-you-need-to-know-about-guest-posting-to-boost-your-online-reputation",
+      "id": "8a75501d0d0658ee5a5bdd2d9c9d89fcfffc1e34",
+      "targetPath": "/blog/orm/everything-you-need-to-know-about-guest-posting-to-boost-your-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/7-online-reputation-mistakes-you-might-be-making",
+      "id": "9ed8a38b02d6449d301cab74c8c9c63185117fa4",
+      "targetPath": "/blog/orm/7-online-reputation-mistakes-you-might-be-making"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/online-reputation-management-do-it-yourself-or-hire-a-pro",
+      "id": "51805bfcf975567849ed5c9294d69f1061e3d461",
+      "targetPath": "/blog/orm/online-reputation-management-do-it-yourself-or-hire-a-pro"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/lawyers/6-steps-personal-branding-lawyers",
+      "id": "d884b0fce3fd6e154b00553108380dd80c3e0ab4",
+      "targetPath": "/blog/lawyers/6-steps-personal-branding-lawyers"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/the-law-and-reputation-management-9-things-you-need-to-know",
+      "id": "42901e7759a201bfeb85f8b23c0d1e0776db065f",
+      "targetPath": "/blog/orm/the-law-and-reputation-management-9-things-you-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/9-tips-for-writing-an-amazing-personal-biography",
+      "id": "72c9a7bf6cb29b283ae40d4b9c5422d36c5bd0f6",
+      "targetPath": "/blog/orm/9-tips-for-writing-an-amazing-personal-biography"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/7-ways-to-build-a-personal-brand-with-content-marketing",
+      "id": "6b17fcd347f1e88b57b414a6bf86c9c6c920d3a1",
+      "targetPath": "/blog/job-seekers/7-ways-to-build-a-personal-brand-with-content-marketing"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/7-social-media-tips-for-physicians",
+      "id": "159b6c1de1bcff986ad0a3098588fa5bddfa434b",
+      "targetPath": "/blog/doctors/7-social-media-tips-for-physicians"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/5-of-the-most-effective-linkedin-headlines-you-should-be-copying",
+      "id": "f640835184e198d4864fb12807c3a56268d8e35e",
+      "targetPath": "/blog/job-seekers/5-of-the-most-effective-linkedin-headlines-you-should-be-copying"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors/why-doctors-need-strong-online-presence",
+      "id": "1ef1b5e1857f6d75d1fe85324eece3d0aa8f7732",
+      "targetPath": "/blog/doctors/why-doctors-need-strong-online-presence"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-write-an-inspiring-personal-vision-statement",
+      "id": "dfbf9ac4b89c9fe39d7695daaff3c806801f4981",
+      "targetPath": "/blog/job-seekers/how-to-write-an-inspiring-personal-vision-statement"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/how-to-blog-your-way-to-a-better-online-reputation",
+      "id": "b605ec42a9556bbbd8bfc8442a16950d509ffd32",
+      "targetPath": "/blog/orm/how-to-blog-your-way-to-a-better-online-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/4-ways-to-build-your-personal-brand-on-linkedin",
+      "id": "8d5d8353b00b893dd82e53e861b40e2cc277868c",
+      "targetPath": "/blog/job-seekers/4-ways-to-build-your-personal-brand-on-linkedin"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-improve-your-online-reputation-so-that-employers-will-hire-you",
+      "id": "89539d16b842edda406df93db8e21b360753a84e",
+      "targetPath": "/blog/job-seekers/how-to-improve-your-online-reputation-so-that-employers-will-hire-you"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals/deep-web-vs-dark-web-101-what-every-professional-needs-to-know-about-online-reputation-risks",
+      "id": "e766f82bef6263747bc6bb77e37e7c089c635068",
+      "targetPath": "/blog/professionals/deep-web-vs-dark-web-101-what-every-professional-needs-to-know-about-online-reputation-risks"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/top-eye-opening-internet-privacy-concerns-in-the-age-of-ai",
+      "id": "4fc22ccab53e0220ed616d2a533b26160f85c879",
+      "targetPath": "/blog/privacy/top-eye-opening-internet-privacy-concerns-in-the-age-of-ai"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-protect-your-kids-when-they-play-online-video-games",
+      "id": "6f8edf0d5fee29f1458acac1a968b983b687bca7",
+      "targetPath": "/blog/protect-your-kids/how-protect-your-kids-when-they-play-online-video-games"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/top-five-threats-your-online-privacy",
+      "id": "905ec085fb67ab83ad9b3600154f554e20b3f68a",
+      "targetPath": "/blog/privacy/top-five-threats-your-online-privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-clean-up-your-digital-footprint",
+      "id": "f65ab3103493786fc39c05afbf35ff788566edc8",
+      "targetPath": "/blog/privacy/how-to-clean-up-your-digital-footprint"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/8-different-types-identity-theft",
+      "id": "b1f8cc49fb9538bf419dc6bb65433fe23ee2de3d",
+      "targetPath": "/blog/privacy/8-different-types-identity-theft"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/how-to-use-facebook-as-a-professional-networking-tool",
+      "id": "8fe0fe898f0bc738ee0cae7e7b402c47898026d5",
+      "targetPath": "/blog/job-seekers/how-to-use-facebook-as-a-professional-networking-tool"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/yes-you-need-to-write-a-career-goals-statement-and-no-it-wont-hurt",
+      "id": "f6dd57646534a5d8a18ddf4599e4f0d1a66a17ef",
+      "targetPath": "/blog/job-seekers/yes-you-need-to-write-a-career-goals-statement-and-no-it-wont-hurt"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/top-5-social-media-privacy-mistakes",
+      "id": "c2fcd39d938cdbf4fb279fbaca69371e60b5dc92",
+      "targetPath": "/blog/privacy/top-5-social-media-privacy-mistakes"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/the-student-privacy-blueprint-3-steps-to-protect-college-student-online-presence",
+      "id": "c85db394046c319bd5652dd21d83f3c5da9e5aa9",
+      "targetPath": "/blog/privacy/the-student-privacy-blueprint-3-steps-to-protect-college-student-online-presence"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-build-a-digital-safety-net-that-protects-every-generation",
+      "id": "d4fb881723432389a21c08156c9b48ecc62024bc",
+      "targetPath": "/blog/privacy/how-to-build-a-digital-safety-net-that-protects-every-generation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-to-prevent-child-identity-theft-in-a-social-media-driven-society",
+      "id": "a561aad58feab0444be14b967482075e54056ebe",
+      "targetPath": "/blog/protect-your-kids/how-to-prevent-child-identity-theft-in-a-social-media-driven-society"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/family-digital-legacy-protection-5-expert-tips-for-securing-your-online-assets",
+      "id": "45133ae5f16324db782465e95ed06a1bee626c0f",
+      "targetPath": "/blog/privacy/family-digital-legacy-protection-5-expert-tips-for-securing-your-online-assets"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/what-are-data-broker-opt-out-services",
+      "id": "7594523aed68718e6699d2c2e4027ad31f4e7368",
+      "targetPath": "/blog/privacy/what-are-data-broker-opt-out-services"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/10-of-the-best-personal-brand-statement-examples",
+      "id": "af76b8a0a86cebd9c01efcb06efe2b381d59a72f",
+      "targetPath": "/blog/orm/10-of-the-best-personal-brand-statement-examples"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/raising-kids-in-an-online-world-what-parents-need-to-know",
+      "id": "ea897bbeb2b4ace590bf7fba49682176d8b157a7",
+      "targetPath": "/blog/protect-your-kids/raising-kids-in-an-online-world-what-parents-need-to-know"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/6-best-practices-for-digital-executive-protection",
+      "id": "6eae4edd251aaab4c58104750d755d402b79decf",
+      "targetPath": "/blog/privacy/6-best-practices-for-digital-executive-protection"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities/repairing-influencer-reputation-after-a-scandal",
+      "id": "a36113ab8719017813cbd2dcea110a4c55047e92",
+      "targetPath": "/blog/celebrities/repairing-influencer-reputation-after-a-scandal"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/online-dating-privacy-tips",
+      "id": "fec87b09583f0126d9e7e3149e2383ff3cd6acf7",
+      "targetPath": "/blog/privacy/online-dating-privacy-tips"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/internet-extortion-how-to-prevent-it-and-the-best-ways-to-respond-to-it",
+      "id": "47a9344d34a33fc15df971cd193b8d3d3108a51d",
+      "targetPath": "/blog/privacy/internet-extortion-how-to-prevent-it-and-the-best-ways-to-respond-to-it"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers/your-online-reputation-score-your-new-credit-score",
+      "id": "b10c4ff044d27ec45dddafb1bfcb00824ea1c35a",
+      "targetPath": "/blog/job-seekers/your-online-reputation-score-your-new-credit-score"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/how-to-avoid-identity-theft",
+      "id": "bfe6bd76d61bf6763af572c14f4b984e92a59168",
+      "targetPath": "/blog/privacy/how-to-avoid-identity-theft"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/navigating-big-data-privacy-issues-effectively-a-simple-guide",
+      "id": "a2e58a7e874a70785ed1202281cd5f40d66794ba",
+      "targetPath": "/blog/privacy/navigating-big-data-privacy-issues-effectively-a-simple-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/how-protect-your-children-cyberstalking",
+      "id": "5a15ebb1fe07c612246a079611e02efe22d60d88",
+      "targetPath": "/blog/protect-your-kids/how-protect-your-children-cyberstalking"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/family-reputation-management-for-a-stronger-legacy",
+      "id": "01999ece5056c7e9d458105a841e30af0478c485",
+      "targetPath": "/blog/orm/family-reputation-management-for-a-stronger-legacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/online-privacy-challenges-for-public-figures-today",
+      "id": "d86fe619337a353968bbb1941866f92ceb8a8fac",
+      "targetPath": "/blog/privacy/online-privacy-challenges-for-public-figures-today"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/executive-iot-security-risks-protecting-key-assets",
+      "id": "b757ec4b09e4d034fd057b8528b4872c8c2fda1c",
+      "targetPath": "/blog/privacy/executive-iot-security-risks-protecting-key-assets"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/the-new-rules-of-board-member-privacy-protection-every-executive-needs-to-know-now",
+      "id": "93d011ea75b33b3d4793bd0c515dc5bf54aad753",
+      "targetPath": "/blog/executives/the-new-rules-of-board-member-privacy-protection-every-executive-needs-to-know-now"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/privacy-success-tools-to-stay-safe-and-visible",
+      "id": "ecf96495ff8e5737382909d47b18aff652b2e969",
+      "targetPath": "/blog/privacy/privacy-success-tools-to-stay-safe-and-visible"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy/plan-your-digital-inheritance-for-the-future",
+      "id": "93b89289e02e20314615f43971c8d93f4caff856",
+      "targetPath": "/blog/privacy/plan-your-digital-inheritance-for-the-future"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/how-to-build-an-unshakable-professional-reputation",
+      "id": "290bd764ac781f92599781b4749f9bab5fa6530e",
+      "targetPath": "/blog/smb/how-to-build-an-unshakable-professional-reputation"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm/ceo-reputation-management-is-your-company-at-risk",
+      "id": "0270db1c0223e9abffc2a13a8a199b31e3e45680",
+      "targetPath": "/blog/orm/ceo-reputation-management-is-your-company-at-risk"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb/small-business-reputation-blueprint-for-online-trust",
+      "id": "b99ede9ed73dd4e6543ec28e56d19cfdbccdcb0e",
+      "targetPath": "/blog/smb/small-business-reputation-blueprint-for-online-trust"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews/prevent-fake-reviews-on-google-4-smart-steps",
+      "id": "6e0b9cf5cacb039e22b85433bfb71af1df82bf11",
+      "targetPath": "/blog/online-reviews/prevent-fake-reviews-on-google-4-smart-steps"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids/smart-digital-preparation-for-ivy-league-success",
+      "id": "e6b493e8b4bedc92790f445ab9e40d2014aaa943",
+      "targetPath": "/blog/protect-your-kids/smart-digital-preparation-for-ivy-league-success"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/executive-privacy-concierge-your-inside-look",
+      "id": "5c3b48338583732dd2e94fffbf4fb03508ac2715",
+      "targetPath": "/blog/executives/executive-privacy-concierge-your-inside-look"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/top-uhnw-cybersecurity-solutions-to-protect-wealth",
+      "id": "f87b95f994a3aaa49c7ef0d0939de2469a280234",
+      "targetPath": "/blog/executives/top-uhnw-cybersecurity-solutions-to-protect-wealth"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives/securing-executive-identities-the-first-step-towards-robust-business-security",
+      "id": "135f5ac659832b916b16fd3f2bee635c93292423",
+      "targetPath": "/blog/executives/securing-executive-identities-the-first-step-towards-robust-business-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/lawyers/online-reputation-management-attorneys",
+      "id": "f2d28b36f251dfccb5c5694f5e75d6096ebe4310",
+      "targetPath": "/blog/lawyers/online-reputation-management-attorneys"
+    },
+    {
+      "url": "https://www.reputationdefender.com/",
+      "id": "ab1ea740c9c201aa6ee9801281d2c340f401cbea",
+      "targetPath": "/"
+    },
+    {
+      "url": "https://www.reputationdefender.com/smb-online-reputation-guide",
+      "id": "283dd32439605fd70ceb701aba7e0d3334f9c816",
+      "targetPath": "/smb-online-reputation-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/online-reputation-tips-economic-downturn",
+      "id": "93d3b889b8fad36bd3371004fcee51de3cfced2a",
+      "targetPath": "/online-reputation-tips-economic-downturn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/online-privacy-tips",
+      "id": "ad0126cf08ef56009d2ad8711a7c1bd8d4ef4227",
+      "targetPath": "/online-privacy-tips"
+    },
+    {
+      "url": "https://www.reputationdefender.com/individuals-online-reputation-guide",
+      "id": "f3fcd6e2ae2c52683bdefd9cd0e55276a6dacd50",
+      "targetPath": "/individuals-online-reputation-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/search-results-guide",
+      "id": "fe9265192c4cf606a755c593476e478c27fded10",
+      "targetPath": "/search-results-guide"
+    },
+    {
+      "url": "https://www.reputationdefender.com/people-search-faqs",
+      "id": "5a008d953f7e22a705a43a9c40e1bfaf5777aa0d",
+      "targetPath": "/people-search-faqs"
+    },
+    {
+      "url": "https://www.reputationdefender.com/personal-branding",
+      "id": "532854d8459faca41de208587db09390c3317f25",
+      "targetPath": "/personal-branding"
+    },
+    {
+      "url": "https://www.reputationdefender.com/vip-services",
+      "id": "1a52074651433f474fbfd241b515ac3c2252ec9a",
+      "targetPath": "/vip-services"
+    },
+    {
+      "url": "https://www.reputationdefender.com/online-reviews",
+      "id": "453a4f5e6417ba7a50d1d28e379b1390a65403f1",
+      "targetPath": "/online-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/small-business",
+      "id": "288757f278fa581c56aae82ecbcc2ef213d0ea63",
+      "targetPath": "/small-business"
+    },
+    {
+      "url": "https://www.reputationdefender.com/patents",
+      "id": "62173e988d6bba94863cd4be0a5a2e42ec8e2fb3",
+      "targetPath": "/patents"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal/reputation-report-terms",
+      "id": "716b31e644567e84b962313f8ac3fc357eb3471f",
+      "targetPath": "/legal/reputation-report-terms"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal/privacy-policy",
+      "id": "d38593298b76549a14a12083722f07d4fc5f23ca",
+      "targetPath": "/legal/privacy-policy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/executive-protection",
+      "id": "37de1af89c3a0b9c2c063595e25379cf5d5ad3b8",
+      "targetPath": "/executive-protection"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/report-card-t2409",
+      "id": "b66f1b9982e4bd3da021ac68a4dc81b289d3f7d3",
+      "targetPath": "/rd/report-card-t2409"
+    },
+    {
+      "url": "https://www.reputationdefender.com/report-card",
+      "id": "971e86a0f97d043454b70af3abc4e3c695dcceda",
+      "targetPath": "/report-card"
+    },
+    {
+      "url": "https://www.reputationdefender.com/contact",
+      "id": "8e4746cbe1b9ada3de45794c51362edef9dd907a",
+      "targetPath": "/contact"
+    },
+    {
+      "url": "https://www.reputationdefender.com/who-we-serve",
+      "id": "b42d1f77b7eebcbd0ad9abe365ecde32d9661fd1",
+      "targetPath": "/who-we-serve"
+    },
+    {
+      "url": "https://www.reputationdefender.com/large-companies",
+      "id": "aee314588f275cf8c00610891e458cea38146828",
+      "targetPath": "/large-companies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/job-seekers",
+      "id": "bc62198865b9989ee7dc8a406b5f463e494191e0",
+      "targetPath": "/job-seekers"
+    },
+    {
+      "url": "https://www.reputationdefender.com/solutions",
+      "id": "1c40a6f9c91e123604c9d5634881eae64c2050fa",
+      "targetPath": "/solutions"
+    },
+    {
+      "url": "https://www.reputationdefender.com/privacy",
+      "id": "42b7ead1ee5164b8ff310ce03e418694714b9241",
+      "targetPath": "/privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal/user-agreement",
+      "id": "708d4fd115585ea23bfc059767ad32fcbe068710",
+      "targetPath": "/legal/user-agreement"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal",
+      "id": "48b7c381f1e1c2baacfbd9c2b32a9ea97ccfb3ac",
+      "targetPath": "/legal"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal/security-faq",
+      "id": "b10b93e57bea32d7f38ef0ecec8d698a4e54b07a",
+      "targetPath": "/legal/security-faq"
+    },
+    {
+      "url": "https://www.reputationdefender.com/case-studies",
+      "id": "730f51fde1f6f895b671571a91aadd72a742451f",
+      "targetPath": "/case-studies"
+    },
+    {
+      "url": "https://www.reputationdefender.com/individuals",
+      "id": "935dfcd8daa3f9c2b5b6f9a716fef94685bfc2a6",
+      "targetPath": "/individuals"
+    },
+    {
+      "url": "https://www.reputationdefender.com/remove-personal-information",
+      "id": "239e08b4ebcdd9de28167886493e069f93ba584d",
+      "targetPath": "/remove-personal-information"
+    },
+    {
+      "url": "https://www.reputationdefender.com/guide-to-online-reputation-management",
+      "id": "83f23914333fb045caea1b5f5dcb74231df27d1b",
+      "targetPath": "/guide-to-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/what-online-reputation-management",
+      "id": "ebaa7918afb7f1d3f0d87f84f74cd867f0acd0a8",
+      "targetPath": "/what-online-reputation-management"
+    },
+    {
+      "url": "https://www.reputationdefender.com/about",
+      "id": "7b94fbe17ceba7acca3914407c3750f3ad43ac95",
+      "targetPath": "/about"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/online-privacy-solutions-t2507sn",
+      "id": "02d7776a206a6d3dda921ef16d2eae0c5c9de8d6",
+      "targetPath": "/rd/online-privacy-solutions-t2507sn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/control-your-online-reputation-t2507sn",
+      "id": "35ff7b2db98ad26a400fe3ab254ba5b16da4eb62",
+      "targetPath": "/rd/control-your-online-reputation-t2507sn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/free-search-results-removal-consultation-t2507sn",
+      "id": "fa1e5966cab8ffeb07a27a0fe52c11408c5d9574",
+      "targetPath": "/rd/free-search-results-removal-consultation-t2507sn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/protect-your-name-t2507sn",
+      "id": "89604c1377f904db3a1ccbc0c13e9bc77d121532",
+      "targetPath": "/rd/protect-your-name-t2507sn"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/control-your-online-reputation-t2507sn2",
+      "id": "1276028d031dc6b526969204380d27aec17c6da7",
+      "targetPath": "/rd/control-your-online-reputation-t2507sn2"
+    },
+    {
+      "url": "https://www.reputationdefender.com/concierge-digital-security",
+      "id": "633cdaae29c9d941770e2dd1ce4a37404915d342",
+      "targetPath": "/concierge-digital-security"
+    },
+    {
+      "url": "https://www.reputationdefender.com/rd/search-results-23",
+      "id": "6f784ec10ee028839b8b8b1d3e4f919f4b8676b7",
+      "targetPath": "/rd/search-results-23"
+    },
+    {
+      "url": "https://www.reputationdefender.com/search-results",
+      "id": "3924f49301def06a42ed69fcee5050eca3490838",
+      "targetPath": "/search-results"
+    },
+    {
+      "url": "https://www.reputationdefender.com/executives",
+      "id": "12f02447818f9f4870612a9d282bc7e01bc4185a",
+      "targetPath": "/executives"
+    },
+    {
+      "url": "https://www.reputationdefender.com/legal/reputationdefender-service-terms",
+      "id": "ca0e0084810570024932e9ead7f6a4e2ae39366b",
+      "targetPath": "/legal/reputationdefender-service-terms"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/smb",
+      "id": "1cbf994634e6552a799eada47d53e8f7b291cd52",
+      "targetPath": "/blog/smb"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/celebrities",
+      "id": "0a678bb861a5a692eb47e947b1d0cbeb588ed328",
+      "targetPath": "/blog/celebrities"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/doctors",
+      "id": "9dc38af44a22536fc6e0425ce40dd27169477903",
+      "targetPath": "/blog/doctors"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/executives",
+      "id": "661baedae21e3edae524e3418a19af553628d920",
+      "targetPath": "/blog/executives"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/job-seekers",
+      "id": "834eb74de9bb09e369375d96189bfc2953dbd9b2",
+      "targetPath": "/blog/job-seekers"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/lawyers",
+      "id": "91b1fdc30efc8c13897aed126843a8fea10f0c77",
+      "targetPath": "/blog/lawyers"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/orm",
+      "id": "5f6cb6bdac865086dbb50d7e339ed62025a1b833",
+      "targetPath": "/blog/orm"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/online-reviews",
+      "id": "7da7d79d0a284532955a2c8b2a8aac6c4935cd05",
+      "targetPath": "/blog/online-reviews"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/privacy",
+      "id": "644645800a10733582f5de670b2f6b7d228ed034",
+      "targetPath": "/blog/privacy"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/professionals",
+      "id": "1f95ef6edb5094ea834f966fa4998029a78551a1",
+      "targetPath": "/blog/professionals"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/protect-your-kids",
+      "id": "28c6c4c80db0914de1075a7d8361d3e47c2095f0",
+      "targetPath": "/blog/protect-your-kids"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/search-engines",
+      "id": "d9837be33d172f16e290a86fe62e2cece5f53f6e",
+      "targetPath": "/blog/search-engines"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/social-media",
+      "id": "3f426e4e969366badfd26f6adfd266c43e40b1a6",
+      "targetPath": "/blog/social-media"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/support",
+      "id": "42341b03c0e3bdd548ad0e3212fde9d158db0daf",
+      "targetPath": "/blog/support"
+    },
+    {
+      "url": "https://www.reputationdefender.com/blog/uncategorized",
+      "id": "bf0936fb5c0208cc0271390e1f0472a523c6aa50",
+      "targetPath": "/blog/uncategorized"
+    }
   ]
 }
